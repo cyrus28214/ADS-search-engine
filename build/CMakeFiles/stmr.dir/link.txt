@@ -1,0 +1,2 @@
+/bin/ar qc libstmr.a CMakeFiles/stmr.dir/stmr/stmr.c.o
+/bin/ranlib libstmr.a

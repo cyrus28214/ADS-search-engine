@@ -1,0 +1,93 @@
+Start testing: Sep 28 00:19 CST
+----------------------------------------------------------
+1/6 Testing: word_count
+1/6 Test: word_count
+Command: "/mnt/d/courses/ADS/proj/proj1-2/build/tests" "word_count"
+Directory: /mnt/d/courses/ADS/proj/proj1-2/build
+"word_count" start time: Sep 28 00:19 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.47 sec
+----------------------------------------------------------
+Test Passed.
+"word_count" end time: Sep 28 00:19 CST
+"word_count" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/6 Testing: stop_filter
+2/6 Test: stop_filter
+Command: "/mnt/d/courses/ADS/proj/proj1-2/build/tests" "stop_filter"
+Directory: /mnt/d/courses/ADS/proj/proj1-2/build
+"stop_filter" start time: Sep 28 00:19 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"stop_filter" end time: Sep 28 00:19 CST
+"stop_filter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/6 Testing: build_and_print_index
+3/6 Test: build_and_print_index
+Command: "/mnt/d/courses/ADS/proj/proj1-2/build/tests" "build_and_print_index"
+Directory: /mnt/d/courses/ADS/proj/proj1-2/build
+"build_and_print_index" start time: Sep 28 00:19 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   2.62 sec
+----------------------------------------------------------
+Test Passed.
+"build_and_print_index" end time: Sep 28 00:19 CST
+"build_and_print_index" time elapsed: 00:00:02
+----------------------------------------------------------
+
+4/6 Testing: save_and_read_index
+4/6 Test: save_and_read_index
+Command: "/mnt/d/courses/ADS/proj/proj1-2/build/tests" "save_and_read_index"
+Directory: /mnt/d/courses/ADS/proj/proj1-2/build
+"save_and_read_index" start time: Sep 28 00:19 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   7.29 sec
+----------------------------------------------------------
+Test Passed.
+"save_and_read_index" end time: Sep 28 00:19 CST
+"save_and_read_index" time elapsed: 00:00:07
+----------------------------------------------------------
+
+5/6 Testing: merge_and_print_index_file
+5/6 Test: merge_and_print_index_file
+Command: "/mnt/d/courses/ADS/proj/proj1-2/build/tests" "merge_and_print_index_file"
+Directory: /mnt/d/courses/ADS/proj/proj1-2/build
+"merge_and_print_index_file" start time: Sep 28 00:19 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   2.03 sec
+----------------------------------------------------------
+Test Passed.
+"merge_and_print_index_file" end time: Sep 28 00:19 CST
+"merge_and_print_index_file" time elapsed: 00:00:02
+----------------------------------------------------------
+
+6/6 Testing: search_engine_gen_index
+6/6 Test: search_engine_gen_index
+Command: "/mnt/d/courses/ADS/proj/proj1-2/build/tests" "search_engine_gen_index"
+Directory: /mnt/d/courses/ADS/proj/proj1-2/build
+"search_engine_gen_index" start time: Sep 28 00:19 CST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.48 sec
+----------------------------------------------------------
+Test Passed.
+"search_engine_gen_index" end time: Sep 28 00:19 CST
+"search_engine_gen_index" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 28 00:19 CST

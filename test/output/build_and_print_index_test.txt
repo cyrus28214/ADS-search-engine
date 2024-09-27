@@ -1,0 +1,3178 @@
+1: 1 2 3 4 5 14 19 21
+2: 1 3 5 6 7 8 9 10 11 12 13 15 20
+3: 1 4 7 14 15 16 17 18
+4: 1 8 17 19 20
+5: 1 9 18 21
+6: 1 10
+7: 1 11
+8: 1 12
+9: 1 13
+a: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+abate: 0 21
+abide: 0 17 19
+abject: 0 19
+able: 0 3 19
+aboard: 0 10
+abode: 0 10
+about: 0 2 4 6 8 10 13 21
+above: 0 10 17 19
+abram: 0 4
+abridged: 0 2
+abroad: 0 2 4 16
+absence: 0 3 17 21
+absent: 0 21
+abundance: 0 3
+accept: 0 3 20
+acceptance: 0 19
+accepted: 0 21
+accident: 0 21
+accomplished: 0 17
+according: 0 3 6 19
+account: 0 15 19
+accoutred: 0 17
+accused: 0 19
+achieved: 0 15
+acknowledge: 0 17
+acquaintance: 0 6
+acquainted: 0 3 19
+acquitted: 0 19 21
+act: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+add: 0 21
+address: 0 13
+adieu: 0 4 7 11 13
+admit: 0 19
+ado: 0 2
+advantage: 0 4
+advantages: 0 11
+adventuring: 0 2
+adversari: 0 19
+advice: 0 20
+advised: 0 2 5 21
+advisedli: 0 21
+aeson: 0 21
+afeard: 0 3 11 13
+affairs: 0 10
+affection: 0 3 5 12 19
+affections: 0 2 14 21
+aforesaid: 0 6
+after: 0 2 5 9 15 19 21
+afternoon: 0 3 9
+afterward: 0 5
+again: 0 2 3 4 10 11 14 15 17 19 21
+against: 0 16 19
+age: 0 6 19
+agitateon: 0 18
+agree: 0 6
+ague: 0 2
+aim: 0 2
+air: 0 15 21
+alabaster: 0 2
+alack: 0 6 7
+alas: 0 3 5 6 19
+albeit: 0 10
+alcides: 0 5 15
+alien: 0 19
+alighted: 0 13
+alive: 0 6 13
+all: 0 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 21
+allai: 0 6 15
+allows: 0 19
+almost: 0 2 10 19 21
+alone: 0 15 16 21
+along: 0 12 15
+aloof: 0 15
+aloud: 0 20
+alreadi: 0 3 17 21
+alter: 0 19
+although: 0 4 17
+alwais: 0 18
+am: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21
+amazed: 0 21
+amazon: 1
+ambassador: 0 13
+ambitious: 0 11 15
+amen: 0 6 14
+amiss: 0 13
+amiti: 0 15 17
+among: 0 3 5 14 15 19
+amorous: 0 12
+an: 0 2 4 6 8 9 10 11 13 14 15 16 17 18 19 21
+ancient: 0 4 13 15
+and: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+andrew: 0 2
+angel: 0 11 21
+ani: 0 2 3 4 5 6 13 14 15 17 18 19 21
+animals: 0 19
+anon: 0 6 13 18
+another: 0 2 3 4 14 18 19
+answer: 0 4 11 12 18 19 21
+answers: 0 15 19
+antipodes: 0 21
+antonio: 0 2 4 10 12 14 15 16 17 19 21
+anything: 0 15 19
+apparel: 0 9
+apparent: 0 19
+appear: 0 6 13 15 19 21
+appeareth: 0 19
+appears: 0 4 15 17 19
+appetite: 0 10
+applause: 0 15
+apple: 0 4
+approach: 0 3 10
+approaching: 0 13
+appropriateon: 0 3
+approve: 0 15
+april: 0 13
+arabia: 0 11
+arden: 1
+are: 0 2 3 4 6 9 10 11 13 14 15 17 18 19 20 21
+argosi: 0 4 14
+argosies: 0 2 21
+argus: 0 21
+arm: 0 19
+armi: 0 18
+arragon: 0 13
+arrow: 0 2
+art: 0 6 10 13 16 19
+as: 0 2 3 4 5 6 8 9 10 11 12 13 14 15 17 18 19 21
+ash: 0 9
+ashamed: 0 7 10
+aside: 0 4 6 11 15 19 20 21
+ask: 0 18 19
+aspect: 0 2 5
+asses: 0 19
+assume: 0 13 15
+assumes: 0 15
+assured: 0 2 4 19
+at: 0 2 3 4 5 6 7 8 9 10 13 14 15 16 17 19 20 21
+attain: 0 5
+attempt: 0 5 19
+attempts: 0 19
+attend: 0 2 17
+attendants: 0 15
+attended: 0 17 21
+attendeth: 0 19
+attending: 0 5
+attentive: 0 21
+attribute: 0 19
+aught: 0 3 6 11 15 21
+authoriti: 0 15 19
+autumn: 0 4
+avenue: 0 1 21
+awai: 0 6 8 10 13 14 15 17 19 20 21
+awaked: 0 21
+awards: 0 19
+awe: 0 19
+aweari: 0 3
+awhile: 0 2 15
+axe: 0 19
+ay: 0 3 4 8 15 19 21
+b: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+bachelor: 0 14
+back: 0 2 11 17 19
+backward: 0 6
+bad: 0 3 14 21
+badge: 0 4
+bag: 0 2 12
+bagpipe: 0 19
+bags: 0 9 12
+bai: 0 10
+bait: 0 2 14
+balance: 0 19
+balls: 0 15
+balthasar: 0 17 19
+baned: 0 19
+bank: 0 21
+bankrupt: 0 14 19
+banks: 0 21
+bar: 0 6 11 15
+barbari: 0 15
+barbarous: 0 13
+bare: 0 13 19
+bareli: 0 19
+bargain: 0 15
+bargains: 0 4 14
+bark: 0 2 10
+baron: 0 3
+barrabas: 0 19
+barren: 0 4
+bars: 0 5 15
+base: 0 11 13
+basket: 0 6
+bassanio: 0 2 3 4 6 9 10 12 13 15 16 17 18 19 20 21
+bastard: 0 18
+bate: 0 19
+bated: 0 4 16
+be: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+beach: 0 19
+beams: 0 21
+bear: 0 4 5 13 15 17 19
+beard: 0 4 6
+beards: 0 15
+beare: 0 8
+bearer: 0 8
+bearing: 0 6 17
+bears: 0 11 19
+beast: 0 3
+beaten: 0 5
+beauteous: 0 15
+beauti: 0 15
+beauties: 0 15
+beautiful: 0 7
+became: 0 3
+because: 0 2 13 18 19
+bechanced: 0 2
+become: 0 4 6 7 12 19 21
+becomes: 0 19
+bed: 0 6 11 13 15 21
+bedfellow: 0 21
+beds: 0 19
+beefs: 0 4
+been: 0 3 11 14 15 19 21
+before: 0 1 3 4 5 9 10 13 14 15 16 17 18 19 20 21
+beg: 0 19
+begg: 0 21
+beggar: 0 10 14 19
+begin: 0 15
+begot: 0 15
+begotten: 0 6
+behalf: 0 4
+behavior: 0 3 6
+beheld: 0 15
+behind: 0 12 15 19
+behold: 0 11 13 19 21
+beholding: 0 4
+being: 0 2 3 4 6 11 12 15 17 19 21
+believe: 0 2 14 21
+bell: 0 15
+bellario: 0 17 19 21
+belli: 0 18
+bellowing: 0 21
+belmont: 0 1 2 3 5 6 11 13 15 17 19 21
+beloved: 0 15
+below: 0 10
+bend: 0 4
+beneath: 0 19
+bereft: 0 15
+beseech: 0 6 9 15 19
+beset: 0 21
+beshrew: 0 10 15
+besides: 0 5 12 13 15
+besmear: 0 21
+bespeak: 0 14
+best: 0 3 5 6 12 15 18 21
+bestow: 0 6 17
+bestows: 0 21
+bethink: 0 2 4
+betimes: 0 14
+better: 0 2 3 4 5 8 13 14 15 18 19 21
+bettered: 0 19
+between: 0 4 6 14 15 17 19
+beware: 0 16
+bid: 0 3 8 9 15 18 19 21
+bidding: 0 9
+bids: 0 6 9
+big: 0 12
+bind: 0 9
+bird: 0 14
+birth: 0 11
+black: 0 9
+blame: 0 18 21
+bleared: 0 15
+bleat: 0 19
+bleed: 0 14 19
+bleeding: 0 9
+blent: 0 15
+bless: 0 6 15
+blessed: 0 21
+blesseth: 0 19
+blessing: 0 4 6 15 18
+blest: 0 4 5 19
+blind: 0 5 6 10 21
+blinking: 0 13
+bliss: 0 13 15
+blood: 0 2 3 5 6 7 14 15 19 21
+bloodi: 0 16 19
+bloods: 0 14
+blotted: 0 15
+blow: 0 2
+blunt: 0 11
+blush: 0 10
+boards: 0 4
+bodi: 0 3 4 15 19 21
+boi: 0 6 9 10 15 17 21
+bois: 0 12
+bold: 0 6 11 15
+boldest: 0 6
+bon: 0 3
+bond: 0 4 12 14 15 16 19
+bondman: 0 4
+bonds: 0 10
+bone: 0 3
+bones: 0 19
+bonnet: 0 3
+book: 0 6
+books: 0 6 19
+bookstore: 1
+bootless: 0 16
+born: 0 2 5
+borne: 0 4
+borrow: 0 4 9
+borrowed: 0 3
+bosom: 0 17 19
+bosoms: 0 19
+both: 0 2 6 14 15 17 18 19 21
+bottom: 0 2
+bought: 0 3 6 15 19
+bound: 0 4 19 21
+bounds: 0 21
+bounti: 0 17
+bow: 0 15
+box: 0 3
+braggart: 0 15
+bragging: 0 17
+brain: 0 3
+branches: 0 6
+brassi: 0 19
+brave: 0 6
+braver: 0 17
+break: 0 4 8 14 15 21
+breast: 0 19
+breath: 0 4 13 15
+breathed: 0 17
+breathing: 0 11 14 21
+bred: 0 5 15
+breed: 0 4
+breeders: 0 4
+breeding: 0 11
+brewing: 0 9
+bridegroom: 0 15
+brief: 0 6 19
+bright: 0 21
+brightli: 0 21
+bring: 0 2 4 5 15 17 19 21
+bringeth: 0 13
+brings: 0 3 4 15
+brook: 0 11 21
+broth: 0 2
+brothers: 0 2
+brought: 0 6
+brow: 0 15 19
+brutus: 0 2
+budge: 0 6
+bui: 0 1 2 4
+builds: 0 13
+burghers: 0 2
+burial: 0 2
+buried: 0 14
+burning: 0 21
+burnish: 0 5
+burthens: 0 19
+bushels: 0 2
+business: 0 2 6 12 15
+but: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+buzzing: 0 15
+by: 0 2 3 4 5 6 8 9 10 11 12 13 14 15 17 18 19 21
+cackling: 0 21
+call: 0 2 4 9 14 15 16 19
+called: 0 3
+calls: 0 2 4 21
+came: 0 2 3 12 13 14 19
+can: 0 1 2 3 4 6 10 14 15 17 18 19 20
+candle: 0 10 13 21
+candles: 0 21
+cannot: 0 3 4 6 10 14 16 19 20 21
+canst: 0 15 19
+capering: 0 3
+carcasses: 0 14
+care: 0 2 16
+carri: 0 19
+carries: 0 11
+carrion: 0 11 14 19
+carthage: 0 21
+casements: 0 9
+casket: 0 3 10 11 13 15
+caskets: 0 3 5 11 13 15
+cast: 0 14
+casualti: 0 13
+cat: 0 9 19
+catch: 0 4 10
+cater: 0 6
+cato: 0 2
+caught: 0 2
+cause: 0 6 16 19 21
+ceases: 0 21
+cerecloth: 0 11
+ceremoni: 0 21
+ceremoniousli: 0 21
+certain: 0 4 10 14 19 21
+certainli: 0 6 14
+certainti: 0 10
+certified: 0 12
+chaff: 0 2 13
+chance: 0 5 15
+chanced: 0 21
+change: 0 5 17 19 21
+changed: 0 2 6
+chapels: 0 3
+charge: 0 19 21
+chariti: 0 3 19
+charter: 0 19
+charybdis: 0 18
+chased: 0 10
+chaste: 0 3
+cheek: 0 4 15
+cheer: 0 15 18 19
+cheerest: 0 18
+cherubins: 0 21
+chest: 0 13
+chests: 0 3
+chief: 0 2
+chiefest: 0 12
+child: 0 6 7 18
+childhood: 0 2
+children: 0 18
+chin: 0 6
+chins: 0 15
+choice: 0 5 11 13 15
+choose: 0 3 5 11 13 14 15 19
+chooses: 0 3
+chooseth: 0 11 13
+choosing: 0 5 15
+chose: 0 11 13
+chosen: 0 3
+christening: 0 19
+christian: 0 4 7 8 9 12 14 16 18 19
+christians: 0 4 18
+church: 0 2 15
+churches: 0 3
+chus: 0 15
+circumstance: 0 2
+cite: 0 4
+citi: 0 16 19
+citizen: 0 19
+civil: 0 21
+civiliti: 0 6
+claim: 0 15 19
+clamber: 0 9
+clear: 0 2 13
+cleared: 0 15
+clerk: 0 19 21
+clime: 0 5
+clock: 0 6 8 9 10
+close: 0 10 21
+clothes: 0 10
+coach: 0 17
+coals: 0 18
+coast: 0 2
+cobwebs: 0 15
+coffer: 0 19
+coffin: 0 14
+coin: 0 11
+colchos: 0 2
+cold: 0 3 6 11
+colour: 0 4 15
+colt: 0 3
+colts: 0 21
+com: 1
+come: 0 2 3 4 5 6 8 9 10 11 13 14 15 16 17 18 19 20 21
+comeng: 0 6 14 18 21
+comer: 0 5
+comes: 0 2 3 4 6 10 13 14 15 17 18 19 21
+comforts: 0 21
+command: 0 6 13
+commanded: 0 13
+commandment: 0 19
+commands: 0 17
+commend: 0 19
+commendable: 0 2 18
+commendateon: 0 19
+commends: 0 13 15
+comments: 0 15
+commiserateon: 0 19
+commit: 0 10 17
+commits: 0 15
+commoditi: 0 2 16
+common: 0 13 15 17
+commonwealth: 0 18
+compani: 0 2 3 14 15 20
+companions: 0 17
+comparison: 0 15
+competence: 0 3
+complexion: 0 3 5 11 14
+compromised: 0 4
+compulsion: 0 19
+conceit: 0 2 17
+conceits: 0 18
+conceive: 0 21
+conceiving: 0 4
+concord: 0 21
+condition: 0 3 4 15 21
+conduct: 0 19
+confess: 0 15 19
+confession: 0 15
+confirm: 0 15
+confiscate: 0 19
+confound: 0 15
+confused: 0 12
+confusion: 0 15
+confusions: 0 6
+congregate: 0 4
+conjured: 0 4
+conscience: 0 6
+consequence: 0 15
+consider: 0 19
+consisteth: 0 16
+conspired: 0 9
+constant: 0 10 15
+constitution: 0 15
+contain: 0 13 19 21
+contains: 0 11
+contemplateon: 0 17
+contending: 0 15
+content: 0 4 15 17 19
+contented: 0 19
+contents: 0 15
+continent: 0 15
+continuance: 0 2
+contrari: 0 3 4
+contrive: 0 19
+contrived: 0 19
+controversi: 0 19
+convenience: 0 19
+convenient: 0 17
+convenientli: 0 12
+converse: 0 3 17
+converted: 0 15
+converting: 0 18
+cool: 0 2
+cooled: 0 14
+cooling: 0 2
+cope: 0 19
+cord: 0 19
+corners: 0 11 18
+cornets: 0 5 11 13
+corrupt: 0 15
+corruptli: 0 13
+cost: 0 14 17
+costli: 0 13
+cottages: 0 3
+couching: 0 21
+could: 0 3 9 10 15 17 18 19 21
+counsel: 0 3 6
+counsels: 0 15
+count: 0 3
+counterfeit: 0 15
+counti: 0 3
+countri: 0 12
+countrymen: 0 15
+courage: 0 19
+courageous: 0 6
+course: 0 16 19
+court: 0 1 3 19
+courteous: 0 13 19
+courtesi: 0 14 19 21
+courtesies: 0 4 15
+courtship: 0 12
+cousin: 0 17
+cousins: 0 6
+cover: 0 13 18
+covered: 0 18
+cowards: 0 15
+cozen: 0 13
+cradle: 0 15
+crave: 0 19
+cream: 0 2
+creation: 0 15
+creature: 0 5 15
+credit: 0 2 21
+creditor: 0 16
+creditors: 0 14 15
+creep: 0 2 15 21
+cressid: 0 21
+cripple: 0 3
+crisped: 0 15
+cross: 0 8 14
+crosses: 0 21
+crossing: 0 14
+crost: 0 9
+crow: 0 21
+crown: 0 19
+crowned: 0 15
+cruel: 0 15 19
+cruelti: 0 19
+cry: 0 15
+crying: 0 12
+cubs: 0 5
+cuckold: 0 21
+cuckolds: 0 21
+cuckoo: 0 21
+cudgel: 0 6
+cunning: 0 15
+cupid: 0 10 13
+cur: 0 4 16
+curb: 0 19
+curbed: 0 3
+cureless: 0 19
+current: 0 19
+currish: 0 19
+curse: 0 14
+cursed: 0 4 5
+curtain: 0 13
+curtains: 0 11
+curtsi: 0 2
+custom: 0 4 19
+customari: 0 17
+cut: 0 2 4 19 21
+cutler: 0 21
+cutting: 0 19
+d: 0 2 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 21
+dagger: 0 14 17
+dai: 0 2 4 6 9 12 13 15 17 19 20 21
+dais: 0 2
+dam: 0 14 19
+damn: 0 2 19
+damnateon: 0 11
+damned: 0 14 15 18
+danger: 0 19
+dangerous: 0 2 14 15
+daniel: 0 19
+dardanian: 0 15
+dare: 0 8 14 21
+dareng: 0 5
+dark: 0 21
+daughter: 0 2 3 7 8 9 12 14 18 19
+daylight: 0 21
+dead: 0 3 6 14 15
+deal: 0 2
+dealings: 0 4
+dear: 0 2 15 17 18 19 21
+dearest: 0 15 19
+dearli: 0 19
+death: 0 3 11 14 15 19 21
+debateng: 0 4
+debt: 0 15 16 19
+debtor: 0 2
+debts: 0 2 15
+decai: 0 21
+deceased: 0 6
+deceived: 0 7 15 21
+decree: 0 3 19
+decrees: 0 19
+deed: 0 4 19 20 21
+deeds: 0 19
+deep: 0 3 19
+deface: 0 15
+defect: 0 6
+defend: 0 3
+defendant: 0 19
+defended: 0 21
+defending: 0 21
+defi: 0 18
+degrees: 0 13
+deliberate: 0 13
+delight: 0 10 12
+deliver: 0 11 16 19
+deliverance: 0 15
+delivered: 0 6
+delivering: 0 19
+demand: 0 19
+demi: 0 15
+demureli: 0 6
+deni: 0 6 15 16 17 19 21
+denied: 0 16
+deniing: 0 17
+depart: 0 2
+departure: 0 3
+depending: 0 3
+depends: 0 19
+derived: 0 13
+descend: 0 10
+describe: 0 3
+description: 0 3 15
+desert: 0 13
+deserts: 0 11 13
+deserve: 0 11 13
+deserved: 0 19 21
+deserves: 0 11 13
+deserving: 0 3 11 19
+deservings: 0 13 19
+desire: 0 4 6 10 11 13 17 19
+desired: 0 10
+desires: 0 11 14 19
+desirest: 0 19
+despair: 0 15
+despise: 0 3
+destini: 0 5 13
+destinies: 0 6
+detain: 0 15
+determinateons: 0 3
+determine: 0 19
+device: 0 17
+devil: 0 3 4 6 7 14 19
+devise: 0 3
+devised: 0 3
+dew: 0 21
+diamond: 0 14
+diana: 0 3 21
+dice: 0 5
+did: 0 2 4 6 7 9 10 12 13 14 15 17 19 20 21
+dido: 0 21
+didst: 0 7
+die: 0 3 5 14 21
+died: 0 17
+dies: 0 15 19 21
+diest: 0 19
+difference: 0 9 14 19
+digest: 0 18
+digniti: 0 13
+dim: 0 21
+dimensions: 0 14
+dine: 0 4
+ding: 0 15
+dinner: 0 2 5 18 19 20
+direct: 0 11 19
+directed: 0 8 15
+direction: 0 4 5
+directli: 0 4 19
+disabled: 0 2
+disableng: 0 11
+discharge: 0 15 19
+discontinued: 0 17
+discourse: 0 18
+discover: 0 11
+discoveri: 0 10
+discretion: 0 18
+diseases: 0 14
+disgraced: 0 14
+disguise: 0 8
+dish: 0 6
+dislike: 0 3
+dismai: 0 4 15 21
+dismiss: 0 19
+dispatch: 0 15
+displeased: 0 21
+displeasure: 0 21
+distinct: 0 13
+divers: 0 14
+divided: 0 15
+divine: 0 3
+division: 0 19
+do: 0 2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+dobbin: 0 6
+dock: 0 2
+doctor: 0 17 19 21
+dog: 0 2 4 12 16 19
+dogs: 0 19
+doing: 0 4 15 17 19
+doit: 0 4
+done: 0 2 3 6 9 15 18
+dong: 0 15
+door: 0 3 19
+doors: 0 9 10
+dost: 0 6 11 13 15 18 19
+dote: 0 3
+doth: 0 3 6 9 10 13 15 17 19 20 21
+double: 0 12 15 21
+doublet: 0 3
+doubli: 0 21
+doubt: 0 2 3 15
+doubtful: 0 15
+doves: 0 6
+down: 0 4 6 10 14 15 19
+dowri: 0 15
+dram: 0 19
+draw: 0 11 13 15 19 21
+draws: 0 15
+dread: 0 19
+dreadful: 0 15
+dream: 0 9
+dreaming: 0 15
+dress: 0 2
+dressed: 0 19
+drew: 0 21
+dried: 0 2
+drink: 0 4
+drive: 0 15 19
+drones: 0 9
+drop: 0 19 21
+droppeth: 0 19
+drops: 0 6 7 19
+dross: 0 11
+drown: 0 7
+drowning: 0 6
+drudge: 0 15
+drum: 0 9
+drunk: 0 3
+dry: 0 15
+dst: 0 16
+ducat: 0 7 19
+ducats: 0 4 10 12 14 15 19 21
+due: 0 19
+duke: 0 3 12 15 16 19
+dulcet: 0 15
+dull: 0 11 15 16 21
+dumb: 0 2 3 21
+duti: 0 18
+dwell: 0 4 6
+dwells: 0 6 10
+e: 0 8 15 18 21
+each: 0 21
+eaning: 0 4
+eanlings: 0 4
+ear: 0 3 14 15 21
+earli: 0 19
+earliest: 0 19
+earnestli: 0 19
+ears: 0 2 9 21
+earth: 0 5 11 12 18
+earthli: 0 18 19
+easi: 0 2 3
+easier: 0 3
+eat: 0 4
+eaters: 0 18
+ecstasi: 0 15
+edge: 0 6
+edifice: 0 2
+eied: 0 15 16 21
+either: 0 3 5
+eke: 0 15
+elbow: 0 6
+elder: 0 19
+election: 0 13 15
+eleven: 0 6
+eloquence: 0 15
+else: 0 9 14 15 18 19
+embrace: 0 2
+embraced: 0 10 12 15
+emploi: 0 12 19
+empti: 0 11 19
+empties: 0 21
+en: 0 13 18 19 20
+enacted: 0 19
+enchanted: 0 21
+end: 0 2 4 7 14 15 19
+endeavour: 0 17
+endeavours: 0 6
+endymion: 0 21
+enemi: 0 4 15 19
+enemies: 0 14
+enfold: 0 11
+enforce: 0 17
+enforced: 0 15 21
+engaged: 0 15
+engender: 0 15
+england: 0 3 4 11 15
+english: 0 3 12
+englishman: 0 3
+enjoi: 0 10
+enjoiing: 0 15
+enjoin: 0 13
+enough: 0 6 9 11 14 19 21
+enow: 0 18 19
+enrobe: 0 2
+enter: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+entertain: 0 2
+enthroned: 0 19
+entire: 0 1
+entireli: 0 15
+entrap: 0 15
+entreat: 0 6 15 19 20
+envi: 0 19
+envious: 0 15
+epitaph: 0 19
+equal: 0 4 17
+er: 0 3 6 8 11 13 15 18 19 21
+ere: 0 2 3 13 15 19 21
+erebus: 0 21
+ergo: 0 6
+erlook: 0 15
+error: 0 15 19
+erta: 0 20
+ertrip: 0 21
+escaped: 0 14
+established: 0 19
+estate: 0 2 15
+estates: 0 13
+esteem: 0 6 19
+estimable: 0 4
+estimateon: 0 11 19
+even: 0 2 4 5 10 11 12 13 15 18 19 21
+events: 0 21
+ever: 0 3 10 13 14 15 16 17 19 20
+everi: 0 2 3 6 13 15 18 19 21
+evermore: 0 2 19
+evil: 0 4 15
+ewe: 0 19
+ewes: 0 4
+exact: 0 4 19
+exaction: 0 4
+example: 0 14 19
+exceed: 0 15
+exceeding: 0 2 6
+excellent: 0 19
+except: 0 5
+excess: 0 4 15
+exchange: 0 10
+exclaim: 0 15
+excrement: 0 15
+excuse: 0 8 19
+execute: 0 14
+exeunt: 0 2 3 4 5 6 8 10 11 12 13 14 15 16 17 18 19 20 21
+exhibit: 0 7
+exhortateon: 0 2
+exit: 0 4 6 7 8 9 10 11 16 17 18 19 21
+expect: 0 4 9 19 21
+expires: 0 4
+exploit: 0 15
+exposition: 0 19
+express: 0 4 15 19
+expressing: 0 18
+expressli: 0 19
+extend: 0 4 11
+extremest: 0 2
+eye: 0 2 6 9 11 12 13 15 19 21
+eyes: 0 2 3 5 6 9 10 14 15 21
+face: 0 4 6 11 12 19 21
+faces: 0 9
+fadeng: 0 15
+fail: 0 2 6 8 13 15
+faint: 0 2
+fair: 0 2 3 4 5 8 10 11 12 15 17 19 20 21
+fairer: 0 2 6 13
+fairest: 0 5
+fairli: 0 2 15
+fairness: 0 15
+faith: 0 2 4 8 10 15 19 21
+faithfulli: 0 21
+faithless: 0 8
+falconbridge: 0 3
+fall: 0 3 4 18 19
+fallen: 0 19
+falling: 0 9
+falls: 0 3 15
+false: 0 3 15 21
+falsehood: 0 4
+famished: 0 6
+fanci: 0 15
+fangs: 0 16
+far: 0 6 11 15 19 21
+fare: 0 2 6 7 11 17 19
+farewell: 0 2 3 7 9 11 17
+farther: 0 19
+farthest: 0 6
+fashion: 0 3 4 19
+fast: 0 4 9 10 21
+faster: 0 10 15
+fat: 0 4
+fatal: 0 14
+fates: 0 6
+father: 0 3 4 5 6 7 8 9 10 18
+fathers: 0 19
+fault: 0 15 21
+faults: 0 6
+favour: 0 4 19
+fawning: 0 4
+fear: 0 2 3 4 5 15 18 19 21
+fearful: 0 4
+fearfulli: 0 21
+feast: 0 6 10 15
+feasting: 0 9
+feather: 0 6
+fed: 0 14 15
+fee: 0 14 19 21
+feed: 0 4 9 14 15
+feeder: 0 9
+feel: 0 15
+feign: 0 21
+fell: 0 3 9 14 17 19
+fellow: 0 2 17 18 21
+fellows: 0 2 6 18
+felt: 0 14
+fence: 0 3
+ferri: 0 17
+fetching: 0 21
+few: 0 15
+fie: 0 2 10 17 19
+fields: 0 5
+fiend: 0 6
+fife: 0 9
+fifteen: 0 6
+fifth: 0 3
+fight: 0 15
+figure: 0 11
+fill: 0 6 19
+find: 0 2 9 12 13 14 15 17 19 21
+finds: 0 18
+fine: 0 17 19
+finger: 0 6 15 21
+fire: 0 5 10 13 15
+firm: 0 19
+first: 0 2 3 5 10 11 13 15 18 19 21
+fish: 0 2 14
+fit: 0 21
+five: 0 6
+flat: 0 14
+flatli: 0 18
+flats: 0 2
+flatter: 0 9
+fled: 0 12
+fledged: 0 14
+fleece: 0 2 15
+fleet: 0 15 19
+flesh: 0 4 6 14 15 16 19 21
+flew: 0 14
+flight: 0 2 14
+flint: 0 19
+flock: 0 19
+flood: 0 2 19
+floods: 0 21
+floor: 0 21
+flourish: 0 5 11 13 15
+fly: 0 2 10 19
+follies: 0 10
+follow: 0 3 12 16 19
+followed: 0 3
+follower: 0 6
+followers: 0 6 21
+following: 0 4
+follows: 0 2 3
+fond: 0 13 16
+font: 0 19
+food: 0 14 15
+fool: 0 2 9 13 16 18
+fooling: 0 6
+foolish: 0 3 7
+fools: 0 2 9 13 18
+foot: 0 4 8 14
+footing: 0 21
+fopperi: 0 9
+for: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+forbear: 0 15
+forbid: 0 6 19
+force: 0 13 19
+fore: 0 13
+foreign: 0 11
+forerunner: 0 3
+forfeit: 0 4 14 15 19 21
+forfeiture: 0 4 15 16 19
+forfeitures: 0 16
+forgave: 0 21
+forget: 0 4
+forgive: 0 3 4 19 21
+forgot: 0 4
+form: 0 11
+formerli: 0 19
+forsworn: 0 15
+forth: 0 2 9 15 18 19 21
+forthwith: 0 4
+fortnight: 0 14
+fortunate: 0 2
+fortune: 0 2 5 6 9 13 15 19
+fortunes: 0 2 3 11 13
+forward: 0 5
+found: 0 2 14 17
+four: 0 2 3 8 9 11 19
+fourscore: 0 14
+fourth: 0 4
+frai: 0 15
+frais: 0 17
+framed: 0 2
+france: 0 3
+frankfort: 0 14
+fraught: 0 12
+free: 0 19
+freedom: 0 15 19
+freeli: 0 15 19
+french: 0 3 12
+frenchman: 0 3 12
+fretten: 0 19
+friend: 0 4 6 8 15 19 21
+friendli: 0 6
+friends: 0 2 4 6 10 14 15 21
+friendship: 0 4
+from: 0 1 2 3 4 5 6 8 10 11 12 13 14 15 16 17 19 21
+frost: 0 11
+frown: 0 3
+frowning: 0 3 15
+fruit: 0 19
+frutifi: 0 6
+full: 0 3 4 14 15 19 21
+fulsome: 0 4
+furi: 0 19
+furnish: 0 2 4 8
+furnished: 0 19
+further: 0 11 19
+furthermore: 0 20
+gaberdine: 0 4
+gaged: 0 2
+gain: 0 4 11 13
+gains: 0 14
+gainst: 0 19
+gallows: 0 19
+gambols: 0 15
+gaoler: 0 16
+gapeng: 0 15 19
+garden: 0 1 18
+garments: 0 17
+garnish: 0 10 18
+gate: 0 13 17
+gates: 0 3
+gather: 0 21
+gatori: 0 21
+gatories: 0 21
+gaudi: 0 15
+gauge: 0 6
+gave: 0 21
+gaze: 0 9 21
+gazeng: 0 15
+gear: 0 2 6
+gelt: 0 21
+gem: 0 11
+general: 0 19
+generateon: 0 4
+genoa: 0 14
+gentile: 0 10
+gentle: 0 2 4 5 8 11 15 19 21
+gentleman: 0 6 12 15 17 19
+gentlemen: 0 8 10 14
+gentleness: 0 19
+gentli: 0 21
+german: 0 3
+germani: 0 3
+get: 0 2 6 7 11 13 15 17 18 19 20
+getting: 0 18
+giddi: 0 15
+gift: 0 19 21
+gifts: 0 13 19
+gild: 0 10
+gilded: 0 11
+ginger: 0 14
+girl: 0 9 12 15
+give: 0 4 6 7 11 13 15 17 19 20 21
+given: 0 12 14 19 21
+giveng: 0 4 19
+gives: 0 6 15 19
+glad: 0 3 6 10 14 15
+glancing: 0 19
+glass: 0 2 3
+glean: 0 13
+glitters: 0 11
+glori: 0 21
+gloves: 0 19
+gnats: 0 15
+go: 0 2 3 4 6 8 9 10 11 12 13 14 15 16 17 18 19 21
+goats: 0 4
+gobbo: 0 6
+god: 0 3 6 11 14 15 16 19 21
+godlike: 0 17
+gods: 0 18
+goes: 0 13 15
+goest: 0 8
+gold: 0 3 4 8 11 13 14 15 21
+golden: 0 2 11 13 15
+gondola: 0 12
+gone: 0 6 8 10 12 13 14 15 17 18 19 21
+good: 0 2 3 4 5 6 7 8 10 12 14 15 16 17 18 19 20 21
+goodli: 0 4 18
+goods: 0 19
+goodwins: 0 14
+goose: 0 21
+gormandise: 0 9
+gossip: 0 14
+got: 0 6 15 18 21
+govern: 0 18 19
+governor: 0 15
+grace: 0 6 17 18 19
+graces: 0 11
+gracious: 0 15 19
+grains: 0 2
+gramerci: 0 6
+grandam: 0 6
+grandsire: 0 2
+grant: 0 2 3 16 19
+grass: 0 2
+gratiano: 0 2 6 8 10 12 15 19 20 21
+gratifi: 0 19
+gratis: 0 4 16 19
+grave: 0 11 21
+graved: 0 11
+gravel: 0 6
+graviti: 0 2
+grazed: 0 4
+great: 0 2 3 6 19
+greater: 0 5 21
+greatest: 0 15
+greatness: 0 19
+grecian: 0 21
+gree: 0 6
+greedi: 0 15
+green: 0 15
+greets: 0 19
+grief: 0 21
+griefs: 0 16
+grieve: 0 12 19 21
+grieved: 0 11
+grieving: 0 5
+grievous: 0 19
+groans: 0 2
+gross: 0 4 11 15
+grossli: 0 21
+grossness: 0 15
+ground: 0 6 19
+grow: 0 2 6 15 18
+grows: 0 3 4 6
+grudge: 0 4
+guard: 0 4
+guarded: 0 6
+gudgeon: 0 2
+guess: 0 4
+guest: 0 7
+guiled: 0 15
+guilti: 0 15
+gusts: 0 19
+h3: 0
+ha: 0 9 13 14 21
+habit: 0 3 6 17
+habitateon: 0 4
+had: 0 2 3 4 5 6 11 14 15 17 19 21
+hadst: 0 16
+hagar: 0 9
+hair: 0 6 15 19 21
+hairs: 0 3 15
+half: 0 13 14 15 19 21
+hall: 0 21
+halter: 0 6 19
+hand: 0 4 5 6 8 11 12 13 15 17 19 21
+hands: 0 14 17 19
+hang: 0 2 19
+hanging: 0 6 13
+hangman: 0 19
+happi: 0 15 17 21
+happier: 0 15
+happiest: 0 15
+happili: 0 6
+happiness: 0 3
+harbour: 0 21
+hard: 0 3 4 6 14 15 19 21
+harder: 0 19
+hardli: 0 16
+hare: 0 3
+hark: 0 21
+harm: 0 2
+harmless: 0 19
+harmoni: 0 21
+harsh: 0 19
+has: 0 6
+hast: 0 6 9 14 18 19
+haste: 0 6 15 17 19 20
+hasted: 0 6
+hat: 0 6
+hate: 0 4 9 15 19
+hates: 0 4 16 19
+hath: 0 2 3 4 5 6 8 10 11 12 13 14 15 18 19 20 21
+have: 0 2 3 4 5 6 7 8 9 10 11 13 14 15 16 17 18 19 20 21
+haveng: 0 3 6 15 18
+hazard: 0 2 5 11 13 15
+he: 0 2 3 4 5 6 9 10 11 12 13 14 15 16 17 18 19 21
+head: 0 3 6 9 11 13 14 15 16 19
+headed: 0 2
+healed: 0 14
+healths: 0 21
+hear: 0 4 6 9 12 14 15 16 17 19 21
+heard: 0 4 11 12 14 15 19 21
+hearing: 0 2 15 21
+hears: 0 3
+hearsed: 0 14
+heart: 0 2 3 4 5 6 11 13 14 15 17 19 21
+heartili: 0 10 19
+hearts: 0 15 19
+heat: 0 2 11
+heated: 0 14
+heaven: 0 4 6 8 10 11 17 18 19 21
+heavenli: 0 11 18
+heavens: 0 6
+heavi: 0 19 21
+heaviness: 0 12
+hebrew: 0 4
+hedged: 0 5
+heed: 0 6
+heels: 0 6
+height: 0 19
+heinous: 0 7
+heirs: 0 19
+held: 0 21
+hell: 0 7 11 15
+hellish: 0 17
+help: 0 4 9
+hence: 0 8 13 15 19 21
+her: 0 2 6 8 10 11 12 14 15 17 18 19 21
+herbs: 0 21
+hercules: 0 5 15
+herd: 0 21
+here: 0 2 3 4 6 8 10 11 13 14 15 17 18 19 20 21
+hereafter: 0 10
+herein: 0 2 6 19
+heresi: 0 13
+hermit: 0 21
+hers: 0 14
+herself: 0 10 19
+hid: 0 2 6 21
+hideng: 0 15
+hie: 0 4 6
+high: 0 2 6 13 15 19
+higher: 0 21
+highwai: 0 14
+highwais: 0 21
+him: 0 3 4 6 7 9 12 13 14 15 16 18 19 20 21
+himself: 0 3 4 6 10 14 15 19 21
+hindered: 0 14
+hip: 0 4 19
+hire: 0 4
+his: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 18 19 20 21
+hit: 0 6 15
+hither: 0 3 15
+hive: 0 9
+ho: 0 10 21
+hogs: 0 18
+hold: 0 2 8 10 15 16 17 19 21
+holds: 0 10 19
+holi: 0 2 3 4 19 21
+hollaing: 0 21
+hollow: 0 19
+home: 0 3 4 19 20 21
+homepage: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+honest: 0 6 14 17 18
+honour: 0 2 13 15 17 19 21
+honourable: 0 13 17 19
+honours: 0 15
+hood: 0 6 10
+hoop: 0 21
+hope: 0 3 6 11 13 18 19 21
+hopes: 0 2 6 13
+horn: 0 21
+horse: 0 3 6 10
+hose: 0 3
+hot: 0 3 21
+hour: 0 2 8 10 19 21
+hours: 0 8 17 21
+house: 0 1 3 4 5 6 7 8 9 10 11 13 14 15 17 19 20 21
+hovel: 0 6
+how: 0 2 3 4 6 8 10 11 13 14 15 17 18 19 21
+howling: 0 15
+howso: 0 18
+huddled: 0 19
+hue: 0 5 11
+huge: 0 9
+hugg: 0 10
+human: 0 19
+humble: 0 19
+humbleness: 0 4 19
+humiliti: 0 14
+humour: 0 19
+humours: 0 18
+hurt: 0 14
+husband: 0 3 14 17 18 19 20 21
+husbandri: 0 17
+husbands: 0 3 17 19 20 21
+hymn: 0 21
+hyrcanian: 0 11
+i: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+icicles: 0 5
+idiot: 0 13
+if: 0 2 3 4 5 6 7 8 9 10 11 13 14 15 16 17 18 19 20 21
+ignorant: 0 2
+ii: 0 3 6 15 20
+iii: 0 4 7 16
+ill: 0 9 14
+imagined: 0 17
+immediateli: 0 9 13
+immortal: 0 21
+immured: 0 11
+impart: 0 15
+impeach: 0 15 16
+impediment: 0 19
+impenetrable: 0 16
+impertinent: 0 6
+importuniti: 0 19
+imposition: 0 3 17
+impossible: 0 15
+impugn: 0 19
+imputateon: 0 4
+in: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21
+incarnal: 0 6
+incision: 0 5
+incurr: 0 19
+indebted: 0 19
+indeed: 0 3 6 10 11 15 18 21
+india: 0 15
+indian: 0 15
+indies: 0 4
+indirect: 0 19
+indirectli: 0 6 19
+inevitable: 0 19
+inexecrable: 0 19
+infection: 0 6
+infidel: 0 15 19
+infinite: 0 2
+infiniteli: 0 21
+informed: 0 19
+infuse: 0 19
+infused: 0 19
+ingratitude: 0 21
+inhuman: 0 19
+injunctions: 0 13
+inlaid: 0 21
+inland: 0 21
+innocence: 0 2
+inquire: 0 2 6 20
+inscription: 0 11
+inscriptions: 0 11
+inscroll: 0 11
+insculp: 0 11
+inserted: 0 4
+inspirateons: 0 3
+instant: 0 18 19
+instantli: 0 4 13
+instruction: 0 14
+instructions: 0 3
+intent: 0 19
+inter: 0 21
+intercessors: 0 16
+interest: 0 4 15
+interior: 0 13
+intermission: 0 15
+interposer: 0 15
+interpreter: 0 17
+into: 0 2 3 4 9 15 17 18 19 21
+inward: 0 15
+is: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21
+issue: 0 8 15
+issuing: 0 15
+it: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+itali: 0 3 6 15
+italian: 0 3
+itself: 0 15 19 21
+iv: 0 8 17
+ivori: 0 14
+ix: 0 13
+jacks: 0 17
+jacob: 0 4 9
+janus: 0 2
+jasons: 0 2 15
+jaundice: 0 2
+jealous: 0 18
+jealousi: 0 15
+jessica: 0 7 8 9 10 12 15 17 18 21
+jest: 0 2
+jet: 0 14
+jew: 0 4 6 7 8 10 12 14 15 18 19 20 21
+jewel: 0 21
+jewels: 0 8 12 14
+jewess: 0 9
+jewish: 0 4 19
+jews: 0 18
+joi: 0 15
+jois: 0 18
+jot: 0 19
+judge: 0 9 10 13 14 19 21
+judgment: 0 11 13 19
+jump: 0 13
+just: 0 19
+justice: 0 1 12 15 16 19
+keen: 0 10 15 19
+keenness: 0 19
+keep: 0 2 7 10 12 13 14 20 21
+keeping: 0 21
+kei: 0 4 11 13
+keis: 0 9
+kept: 0 16 21
+kill: 0 19
+killed: 0 17
+kin: 0 13
+kind: 0 4 6 9 18 19 21
+kinder: 0 12
+kindest: 0 15
+kindness: 0 4
+king: 0 15 21
+kingdom: 0 11
+kings: 0 19
+kinsman: 0 2
+kiss: 0 2 11 13 15 21
+knapped: 0 14
+knave: 0 4 7
+kneels: 0 21
+knell: 0 15
+knew: 0 14 17 19 21
+knife: 0 19 21
+knocks: 0 3
+know: 0 2 3 4 6 8 10 11 14 15 16 17 18 19 21
+knowing: 0 6
+knowist: 0 20
+knowledge: 0 2
+known: 0 6 15 21
+knows: 0 6 10 21
+laban: 0 4
+labour: 0 11
+lack: 0 2 17 19
+ladeng: 0 14
+ladi: 0 2 3 5 11 13 15 18 21
+ladies: 0 17 21
+ladyship: 0 17
+lai: 0 18 19 21
+laid: 0 18
+lais: 0 17
+lamb: 0 19
+lambs: 0 4
+land: 0 4
+lands: 0 19
+lark: 0 21
+last: 0 4 6 9 15 19 21
+lastli: 0 13
+late: 0 12 19
+lateli: 0 19
+latin: 0 3
+latter: 0 2
+laugh: 0 2 14
+laughable: 0 2
+laughed: 0 14
+laughter: 0 2
+launcelot: 0 6 7 8 9 18 21
+law: 0 12 15 16 19
+lawful: 0 19
+lawfulli: 0 19
+laws: 0 3 19
+lawyer: 0 19
+le: 0 3
+lead: 0 3 5 11 13 15 19
+leaden: 0 11 15
+leading: 0 5
+leah: 0 14
+lean: 0 10
+leap: 0 2
+leaps: 0 3
+learn: 0 2 15 19
+learned: 0 19
+learning: 0 6 13 19
+least: 0 15
+leave: 0 2 3 6 7 8 11 13 14 15 19 21
+led: 0 5
+left: 0 2 4 6 19 21
+legs: 0 6
+leisure: 0 19 21
+leisures: 0 2
+lend: 0 4 14 21
+lends: 0 4
+length: 0 6 15
+lent: 0 16
+leonardo: 0 6
+less: 0 15 18 19 21
+lest: 0 6 14 15 19
+let: 0 2 3 4 5 6 9 11 12 13 14 15 16 17 18 19 20 21
+lets: 0 2
+letter: 0 7 8 15 17 19 21
+letters: 0 6 19
+level: 0 3
+lewd: 0 17
+liberal: 0 6 19 21
+lichas: 0 5
+lie: 0 2 11 14 15 21
+lies: 0 11 15 17 19
+lieu: 0 19 21
+life: 0 6 11 13 15 16 18 19 21
+light: 0 6 10 19 21
+lightest: 0 15
+lights: 0 14
+like: 0 2 3 4 6 10 11 13 14 15 17 18 19 21
+likeli: 0 13
+likeness: 0 14
+likes: 0 19
+likest: 0 19
+limbs: 0 11
+limp: 0 15
+line: 0 6
+lineaments: 0 17
+linger: 0 13
+lingering: 0 19
+lion: 0 5 21
+lips: 0 2 15
+lisbon: 0 15
+list: 1
+little: 0 3 17 19 21
+live: 0 3 6 15 17 18 19 21
+liveng: 0 3 21
+livengs: 0 15
+liver: 0 2
+liveri: 0 5 6
+liveries: 0 6
+livers: 0 15
+lives: 0 3 14
+ll: 0 2 3 4 6 8 9 10 11 13 14 15 16 17 18 19 20 21
+loath: 0 9
+loathes: 0 19
+loathing: 0 19
+lock: 0 9 15
+locks: 0 2 15
+lodged: 0 19
+lodging: 0 6 8
+long: 0 6 10 13 15
+longer: 0 3 6 19
+look: 0 2 4 5 6 9 10 12 13 14 15 16 17 18 19 21
+looked: 0 3
+looks: 0 4 19 21
+loose: 0 19
+lord: 0 2 3 6 13 15 17 18 19 20 21
+lords: 0 2 3
+lordship: 0 15
+lorenzo: 0 2 6 7 8 10 12 15 17 18 19 20 21
+lose: 0 2 6 13 15 19
+loseng: 0 19
+losers: 0 11
+loss: 0 14
+losses: 0 14 16 19
+lost: 0 2 9 11 14 15 21
+lotteri: 0 3 5
+loud: 0 19 21
+love: 0 2 3 4 5 8 9 10 11 12 13 15 17 19 21
+loved: 0 5 15 19 21
+loveli: 0 10
+loveng: 0 7 15 19
+lover: 0 17
+lovers: 0 10
+loves: 0 12
+low: 0 4 13 15
+lower: 0 2
+lt: 0 19
+luck: 0 14
+lungs: 0 19
+lying: 0 14
+mad: 0 19 21
+madam: 0 3 13 15 17 21
+made: 0 2 3 5 8 10 14 15 16 18 19 21
+madness: 0 3
+magnificoes: 0 15 19
+mai: 0 2 3 4 5 6 8 11 12 13 14 15 18 19
+maid: 0 2 13 15 21
+maiden: 0 5 15
+maids: 0 6 15
+main: 0 19 21
+majesti: 0 19
+make: 0 2 3 4 5 10 11 12 14 15 19 20 21
+makeng: 0 2 6 15 18
+makes: 0 2 3 15 17 19
+makest: 0 15 19
+malice: 0 19
+man: 0 2 3 4 5 6 11 12 15 17 18 19 21
+manage: 0 17
+mani: 0 2 4 11 13 14 15 16 18 19 21
+manifest: 0 19
+manli: 0 7 17
+manna: 0 21
+manner: 0 3
+mannerli: 0 13
+manners: 0 7 17
+mansion: 0 15
+mantle: 0 2
+maps: 0 2
+mar: 0 21
+margeri: 0 6
+mark: 0 4 6 15 19 21
+marquis: 0 3
+marri: 0 3 6 8 12 18 19
+marriage: 0 5 13 15
+married: 0 3 15 19
+marring: 0 15
+mars: 0 15
+mart: 0 14
+martlet: 0 13
+marvel: 0 10
+marvellousli: 0 2
+masque: 0 8 9 10
+masqued: 0 10
+masques: 0 9
+masquing: 0 10
+master: 0 3 6 7 8 9 14 15 21
+masters: 0 21
+mastership: 0 6
+match: 0 14 18
+matched: 0 14
+mates: 0 10
+matter: 0 6 15 18 21
+mayst: 0 4 19 20
+me: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+meagre: 0 15
+mean: 0 3 4 9 15 18
+meaning: 0 3 4 18
+means: 0 2 4 5 14 15 19 21
+meant: 0 13
+meantime: 0 15 19
+measure: 0 15 17
+measures: 0 10
+meat: 0 18
+medea: 0 21
+meet: 0 2 4 8 14 17 18 19
+meetest: 0 19
+meeting: 0 15
+melancholi: 0 2
+member: 0 18
+memori: 0 4 18
+men: 0 2 3 4 5 11 13 14 15 16 17 19 20
+mending: 0 21
+mercenari: 0 19
+merchandise: 0 2 14
+merchant: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+merchants: 0 4 14 15
+merci: 0 16 18 19
+merciful: 0 19
+mere: 0 15
+mereli: 0 19
+merit: 0 13
+merri: 0 2 3 4 7 12 15 21
+merriment: 0 6
+mesh: 0 15
+meshes: 0 3
+messages: 0 2
+messenger: 0 15 19 21
+metal: 0 4 19
+methinks: 0 15 19 21
+methought: 0 4
+mexico: 0 4 15
+midas: 0 15
+might: 0 2 6 14 15
+mightiest: 0 19
+miles: 0 17
+milk: 0 15
+million: 0 14
+mincing: 0 17
+mind: 0 2 4 6 8 9 11 12 15 17 19
+mine: 0 2 3 4 5 6 10 14 15 17 19 21
+mingled: 0 15
+miracle: 0 15
+mirth: 0 2 6
+misbeliever: 0 4
+miscarried: 0 12 15 21
+misconstrued: 0 6
+miseri: 0 17 19
+miseries: 0 3
+misfortune: 0 2 8
+mislike: 0 5
+miss: 0 5 15
+mistress: 0 9 15 19 21
+mistrust: 0 15
+mitigate: 0 19
+moan: 0 2 16
+mock: 0 5
+mocked: 0 14
+mocker: 0 3
+moderate: 0 15
+modest: 0 21
+modesti: 0 6 21
+moe: 0 2
+moieti: 0 19
+monarch: 0 15 19
+monasteri: 0 17
+mondai: 0 9
+monei: 0 2 4 9 14 15 16 18 19
+moneis: 0 4
+mong: 0 18
+monkei: 0 14
+monkeis: 0 14
+monsieur: 0 3
+monster: 0 15
+montferrat: 0 3
+month: 0 4 15
+months: 0 4
+mood: 0 19
+moon: 0 21
+moonlight: 0 21
+moor: 0 18
+more: 0 2 3 4 6 9 10 11 13 14 15 16 17 18 19 20 21
+moreover: 0 4
+morning: 0 3 9 15 19 21
+morocco: 0 3 5 11
+morrow: 0 2 16
+mortal: 0 11
+mortifiing: 0 2
+most: 0 2 3 4 5 6 7 15 16 17 19 20
+moth: 0 13
+mother: 0 3 4 6 18
+motion: 0 15 21
+motions: 0 21
+mountain: 0 19
+mounted: 0 21
+mouth: 0 3
+mouths: 0 4
+move: 0 15
+moved: 0 21
+moves: 0 15
+much: 0 2 3 4 7 10 11 13 14 15 16 18 19 21
+muddi: 0 21
+mules: 0 19
+multitude: 0 13 15
+multitudes: 0 13
+murder: 0 6
+music: 0 15 21
+musician: 0 21
+musicians: 0 21
+must: 0 2 5 6 8 10 11 13 15 17 18 19 21
+muttons: 0 4
+mutual: 0 21
+my: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+myself: 0 2 5 6 10 11 15 17 19 21
+nai: 0 6 8 14 15 18 19 21
+name: 0 2 3 6 14 19 21
+namest: 0 3
+narrow: 0 12 14
+nation: 0 4 14
+nations: 0 16
+native: 0 10
+nature: 0 2 15 19 21
+natures: 0 13
+naughti: 0 15 16 21
+nazarite: 0 4
+ne: 0 6 15 21
+neapolitan: 0 3
+near: 0 4 5 15 17 21
+nearest: 0 19
+neat: 0 2
+necessari: 0 19
+necessiti: 0 4 17
+neck: 0 6 9
+need: 0 3 4 18
+needs: 0 8 17 19
+negro: 0 18
+neighbour: 0 3 5
+neighbourli: 0 3
+neighbours: 0 14
+neighing: 0 21
+neither: 0 2 3 4 18 19 21
+nephew: 0 3
+nerissa: 0 3 5 13 15 17 19 20 21
+nestor: 0 2
+never: 0 2 3 4 5 6 8 9 11 12 13 14 15 16 17 18 19 21
+new: 0 6 7 8 10 13 15 19
+news: 0 3 4 6 8 14 15 21
+next: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+nice: 0 5
+night: 0 3 6 8 9 10 14 15 19 20 21
+nightingale: 0 21
+nine: 0 6 10
+no: 0 2 3 4 6 9 10 11 13 14 15 16 17 18 19 21
+noble: 0 2 11 13 17 19
+noise: 0 19 21
+nominated: 0 4 19
+none: 0 3 13 14 15 18 19 21
+nor: 0 2 3 4 5 9 11 14 15 17 19 21
+northward: 0 5
+nose: 0 9 19
+not: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 21
+notari: 0 4
+note: 0 4 15 21
+notes: 0 17
+nothing: 0 2 3 6 9 14 15 19 21
+notwithstanding: 0 4 15 21
+nought: 0 21
+nourished: 0 15
+now: 0 2 3 4 6 8 10 11 13 14 15 17 18 19 21
+nuptial: 0 13
+o: 0 2 3 4 6 7 8 9 10 11 12 13 14 15 18 19 20 21
+oath: 0 13 16 19 21
+oaths: 0 15 21
+obdurate: 0 19
+obei: 0 17
+object: 0 2
+obliged: 0 10
+obscure: 0 11
+obscured: 0 10
+obscures: 0 15
+observance: 0 6
+observe: 0 13
+obtain: 0 6
+obtained: 0 3
+occasion: 0 2 18
+occasions: 0 2
+ocean: 0 2
+odd: 0 6
+oddli: 0 3
+of: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+off: 0 2 4 17 19 21
+offence: 0 19
+offend: 0 13 19
+offended: 0 19
+offender: 0 19
+offer: 0 3 4 6 19
+offers: 0 19
+office: 0 10
+officer: 0 14
+offices: 0 13 19
+offspring: 0 9
+oft: 0 2 4 16
+often: 0 11 14 15
+oh: 0 4
+old: 0 2 3 6 8 9 11 14 15 19 20 21
+on: 0 2 3 4 5 6 8 9 10 13 14 15 16 17 18 19 21
+once: 0 4 10 11 13 19 21
+one: 0 1 2 3 5 6 9 11 13 14 15 18 19 21
+onli: 0 2 12 15 17 18 19
+online: 1
+ope: 0 2 15
+open: 0 19
+opening: 0 15
+opens: 0 13
+opinion: 0 2 18 19
+oppose: 0 19
+opposed: 0 13
+or: 0 2 4 5 6 10 11 12 13 14 15 19 21
+oracle: 0 2
+orateon: 0 15
+orb: 0 21
+order: 0 8 21
+orderli: 0 6
+organs: 0 14
+ornament: 0 15
+orpheus: 0 21
+ostent: 0 6
+ostents: 0 12
+other: 0 2 3 4 6 12 14 15 17 18 19 21
+others: 0 4 5 19
+our: 0 2 4 5 7 10 12 13 14 15 17 19 20 21
+ours: 0 6 19
+out: 0 2 4 6 9 10 12 14 15 16 17 18 19 20 21
+outbrave: 0 5
+outcries: 0 12
+outface: 0 20
+outlive: 0 19
+outrageous: 0 12
+outside: 0 4 11
+outstare: 0 5
+outswear: 0 20
+outward: 0 13 15
+over: 0 3 4 10 15 19
+overpeer: 0 2
+overtake: 0 19
+owe: 0 2 15
+owes: 0 15
+own: 0 2 3 4 6 14 15 17 19 21
+owners: 0 15
+p: 1
+pace: 0 10
+pack: 0 6
+padua: 0 17 19 21
+pagan: 0 7
+page: 0 1 5 8
+pageants: 0 2
+pai: 0 3 12 15 16 19
+paid: 0 15 19
+paiing: 0 15
+pain: 0 6
+pains: 0 10 19 21
+painter: 0 15
+pais: 0 19
+palaces: 0 3
+palates: 0 19
+palatine: 0 3
+pale: 0 15
+paleness: 0 15
+paler: 0 21
+paltri: 0 21
+paper: 0 8 15
+parcel: 0 3
+pardon: 0 19 21
+park: 0 17
+parrots: 0 2 18
+part: 0 2 4 6 9 11 12 14 15 17 19 21
+parted: 0 6 12 15 21
+parti: 0 4 19
+partli: 0 18
+parts: 0 3 6 15 19
+pass: 0 3 4
+passion: 0 12 19
+passions: 0 14 15
+past: 0 10 15 18
+patch: 0 9
+patience: 0 10 19
+patient: 0 4
+patientli: 0 13
+patines: 0 21
+pause: 0 11 13 15 19
+pawn: 0 18
+peace: 0 19 21
+pearls: 0 15
+peasantri: 0 13
+peel: 0 4
+peep: 0 2
+peering: 0 2
+peevish: 0 2
+peize: 0 15
+pen: 0 21
+penalti: 0 4 19
+penalties: 0 19
+penance: 0 19
+pennyworth: 0 3
+pent: 0 10
+people: 0 15 17 21
+perceive: 0 21
+perchance: 0 21
+perfection: 0 21
+perform: 0 3
+perhaps: 0 9
+peril: 0 4 6 19
+perjuri: 0 19
+persian: 0 5
+person: 0 2
+persuade: 0 15
+persuaded: 0 15
+pertains: 0 15
+peruse: 0 8
+petti: 0 2 15
+philosopher: 0 3
+phoebus: 0 5
+pick: 0 13
+picture: 0 3 11
+pied: 0 4
+pierce: 0 19 21
+piers: 0 2
+pig: 0 19
+pigeons: 0 10
+pilgrimage: 0 2
+pillar: 0 19
+pines: 0 19
+piper: 0 2
+pirates: 0 4
+piti: 0 6 19
+place: 0 1 2 4 6 14 17 18 19
+placed: 0 10
+plague: 0 14
+plai: 0 1 2 5 7 10 15 18
+plaied: 0 3
+plain: 0 6 14 18 19 21
+plais: 0 15
+planted: 0 18
+plea: 0 15 19
+please: 0 2 4 6 8 10 19
+pleased: 0 15 17 19 21
+pleaseth: 0 4
+pleasure: 0 4 15
+plies: 0 15
+plots: 0 2
+pluck: 0 5 19 21
+plucking: 0 2
+pocket: 0 6
+poet: 0 21
+poetri: 0 21
+poison: 0 14
+pond: 0 2
+poor: 0 3 6 15 18 19
+pork: 0 4 18
+port: 0 2 15
+portia: 0 1 2 3 5 11 13 15 17 18 19 20 21
+portli: 0 2
+portrait: 0 13
+ports: 0 2
+posi: 0 21
+possess: 0 4 19 21
+possessor: 0 4
+possible: 0 4
+post: 0 6 13 21
+pound: 0 4 16 19
+poverti: 0 19
+power: 0 4 15 19 21
+powers: 0 15
+practise: 0 17
+prai: 0 2 3 4 5 6 12 13 15 16 17 18 19 20 21
+praiing: 0 21
+prais: 0 21
+praise: 0 3 15 18 21
+praising: 0 13 17
+prateng: 0 21
+prayer: 0 6 14 17 19
+prayers: 0 16 19
+precedent: 0 19
+precious: 0 12 14
+predicament: 0 19
+preferment: 0 6
+preferr: 0 6
+prei: 0 5
+preparateon: 0 8
+prepare: 0 8 18 19 21
+prepared: 0 19
+presage: 0 15
+presages: 0 2
+presence: 0 15 17
+present: 0 2 4 6 15 19
+presenting: 0 13 19
+presentli: 0 2 4 10 13 19
+press: 0 19
+prest: 0 2
+presume: 0 13
+pretti: 0 10 21
+prettier: 0 17
+prevented: 0 2
+previous: 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+price: 0 18
+prick: 0 14
+pries: 0 13
+prince: 0 3 5 11 13 15
+princeli: 0 3
+princes: 0 3 11
+principal: 0 19
+privateli: 0 8
+privi: 0 19
+prize: 0 13 15
+proceed: 0 19
+proceeding: 0 19
+process: 0 19
+proclamateon: 0 19
+prodigal: 0 2 9 10 14
+producing: 0 4
+profit: 0 9 16
+profitable: 0 4
+profound: 0 2
+prolixiti: 0 14
+promise: 0 7 11 15 18
+promised: 0 2
+pronounced: 0 3 19
+proof: 0 2
+prop: 0 6 19
+proper: 0 3 15
+prophet: 0 4
+proportion: 0 17
+prosper: 0 15
+protection: 0 21
+protest: 0 19
+prouder: 0 17
+prove: 0 3 5 14 15 17
+proved: 0 10 19
+proverb: 0 6 9
+provided: 0 8 15 19
+public: 0 1 4 9
+publican: 0 4
+publish: 0 19
+puni: 0 17
+purchased: 0 13 15 19
+purchasing: 0 17
+pure: 0 2
+purpose: 0 2 4 6 15 19
+purposes: 0 2
+purse: 0 2 4 9
+pursue: 0 19
+put: 0 6 12 15 19
+puts: 0 10
+pythagoras: 0 19
+quaint: 0 17
+quaintli: 0 8
+qualifi: 0 19
+qualiti: 0 15 19
+qualities: 0 11
+quarrel: 0 21
+quarrelling: 0 18
+quarrels: 0 21
+queen: 0 5 15
+quest: 0 2
+question: 0 2 17 19
+questionless: 0 2
+quick: 0 13
+quicken: 0 12
+quietness: 0 19
+quiring: 0 21
+quit: 0 19
+quite: 0 21
+r: 0 8
+race: 0 21
+rack: 0 2 15
+rage: 0 19 21
+ragged: 0 10
+rail: 0 19
+rails: 0 4
+rain: 0 19
+raise: 0 2 4 6 18
+raised: 0 12
+rams: 0 4
+ran: 0 15 21
+rank: 0 4 13
+rare: 0 6
+rash: 0 15
+rasher: 0 18
+rat: 0 19
+rate: 0 2 4
+rated: 0 4 11
+rateng: 0 15
+rather: 0 2 3 4 6 15 19 21
+ratified: 0 15
+rats: 0 4
+ravenous: 0 19
+raw: 0 17
+reach: 0 19
+read: 0 11 13 21
+readi: 0 6 19
+readiness: 0 8
+reads: 0 11 13 15 19
+reason: 0 12 14 15 16 18 19 21
+reasonable: 0 3
+reasoning: 0 3
+reasons: 0 2
+rebel: 0 14
+rebels: 0 14
+recant: 0 19
+receipt: 0 19
+receive: 0 2 15 19
+received: 0 21
+record: 0 19
+recorded: 0 19
+red: 0 14
+reddest: 0 5
+redeem: 0 15
+redoubted: 0 15
+reed: 0 17
+refuse: 0 3 21
+refused: 0 19
+regard: 0 2
+regarded: 0 5
+regreets: 0 13
+rehearsed: 0 19
+rein: 0 15
+relateon: 0 19
+relent: 0 16
+relief: 0 17
+religion: 0 15
+remember: 0 3 12
+remembrance: 0 19
+remorse: 0 19
+rend: 0 9
+render: 0 15 17 19
+rendering: 0 19
+renew: 0 21
+renowned: 0 2 5
+rent: 0 10
+repai: 0 4
+repair: 0 19
+repent: 0 17 19
+repents: 0 19
+repli: 0 15
+report: 0 14
+reproach: 0 9
+reputed: 0 2
+request: 0 16 19
+requite: 0 3
+resemble: 0 14
+respect: 0 2 6 21
+respective: 0 21
+rest: 0 2 4 6 9 10 14 15
+return: 0 3 4 6 8 9 10 12 17 21
+revenge: 0 14
+reverence: 0 2 6
+reverend: 0 19
+rhenish: 0 3 14
+rheum: 0 4
+rialto: 0 4 14
+rib: 0 11
+ribs: 0 2 6 10
+rich: 0 2 6 11 12 13 14 15 21
+richli: 0 2 12 21
+riddance: 0 11
+rideng: 0 15
+right: 0 3 5 6 9 11 13 15 19 21
+rightful: 0 19
+rightli: 0 3
+rights: 0 15
+rigorous: 0 19
+ring: 0 14 15 19 20 21
+rings: 0 20 21
+ripe: 0 4
+ripeng: 0 12
+riseth: 0 10
+rites: 0 13
+rival: 0 2
+riveted: 0 21
+road: 0 13 21
+roads: 0 2
+roaring: 0 2
+roars: 0 5
+rob: 0 7
+rocks: 0 2 4 15
+roman: 0 15
+rome: 0 19
+roof: 0 15
+room: 0 1 3 5 7 11 13 15 17 19
+rotten: 0 4
+rough: 0 19
+round: 0 3 4
+rouse: 0 6
+royal: 0 15 19
+rude: 0 6 18
+ruin: 0 13 15 19
+rule: 0 19
+ruled: 0 6
+run: 0 2 6 10 19 21
+runawai: 0 10
+running: 0 6
+rush: 0 19
+s: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21
+sabbath: 0 19
+sacred: 0 4
+sacrifice: 0 15 19
+sad: 0 2 6
+sadness: 0 2 3
+safe: 0 21
+safeli: 0 21
+sai: 0 2 3 4 6 9 13 14 15 18 19 21
+said: 0 4 13
+saiing: 0 2 4 6 11 13 15
+saiings: 0 6
+sail: 0 2 10 12
+sailors: 0 4 14
+sails: 0 10
+saint: 0 3 11
+sais: 0 6 9 11 13 18 19
+sake: 0 2 8 12 19
+salanio: 0 2 8 12 14
+salarino: 0 2 8 10 12 14 16
+salerio: 0 15 19
+salvateon: 0 19
+same: 0 1 2 3 7 8 9 10 14 15 17 18 19 20 21
+sand: 0 2 6 15
+sandi: 0 2
+satisfaction: 0 14
+satisfied: 0 19 21
+savage: 0 21
+save: 0 15 19
+saved: 0 18
+saveng: 0 6
+saw: 0 6 12 15 21
+saxoni: 0 3
+sayest: 0 14
+scale: 0 19
+scant: 0 15 21
+scanted: 0 5
+scape: 0 6 15
+scapes: 0 6
+scarce: 0 5 6 14
+scarf: 0 15
+scarfed: 0 10
+scatter: 0 2
+scene: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+scenes: 1
+sceptre: 0 19
+sceptred: 0 19
+schedule: 0 13
+scholar: 0 3
+school: 0 2 17
+scimitar: 0 5
+scorn: 0 6
+scorned: 0 14
+scottish: 0 3
+scripture: 0 4
+scroll: 0 11 15
+scrubbed: 0 21
+scruple: 0 19
+scuse: 0 19
+scylla: 0 18
+sea: 0 2 14 15 21
+seal: 0 4 10 19
+sealed: 0 3 12
+search: 0 2 12 14 15
+seas: 0 12 14
+season: 0 19 21
+seasoned: 0 15
+seasons: 0 19
+seat: 0 2
+seated: 0 3
+second: 0 1 11 15 19
+secret: 0 2 17
+secretli: 0 7
+see: 0 2 3 4 6 7 9 10 11 13 14 15 16 17 19 20 21
+seed: 0 13
+seek: 0 2 3 10 14 15 19
+seeks: 0 16
+seem: 0 6 8 15
+seeming: 0 15
+seen: 0 12 13 15
+sees: 0 21
+seize: 0 19
+self: 0 2 13 21
+sell: 0 4 19
+semblance: 0 17
+send: 0 17 19 21
+sense: 0 21
+senses: 0 14
+sensible: 0 12 13
+sent: 0 10 19 20
+sentence: 0 19
+sentences: 0 3
+sepulchre: 0 15
+series: 1
+serpent: 0 19
+servant: 0 3 6 13 14
+servants: 0 15 21
+serve: 0 6 18
+served: 0 4 18
+serves: 0 19
+service: 0 6 19
+serving: 0 3
+servitor: 0 13
+set: 0 3 6 11 18 19 21
+seven: 0 13
+sever: 0 15
+several: 0 11
+shadow: 0 3 5 13 15 21
+shadows: 0 13
+shaft: 0 2
+shake: 0 16
+shakespeare: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+shall: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+shallow: 0 9
+shallows: 0 2
+shalt: 0 2 7 9 19
+shame: 0 19 21
+shames: 0 4 10
+shape: 0 15
+sharp: 0 19
+she: 0 2 5 6 8 10 11 12 14 15 18 19 21
+shed: 0 19
+shedding: 0 14
+sheep: 0 4
+shepherd: 0 4
+shift: 0 3
+shines: 0 21
+ship: 0 12 14
+ships: 0 4 15 21
+shoe: 0 3
+shone: 0 21
+shoot: 0 2
+shore: 0 15
+short: 0 6
+shortli: 0 18
+shot: 0 2
+should: 0 2 3 4 6 9 10 13 14 15 18 19 21
+shoulders: 0 14
+shouldst: 0 19
+shout: 0 15
+show: 0 2 3 4 6 13 14 15 17 18 19 20
+showed: 0 14
+showing: 0 2
+shows: 0 11 15 19
+shrew: 0 21
+shrewd: 0 15
+shrine: 0 11
+shrive: 0 3
+shrug: 0 4
+shuddering: 0 15
+shun: 0 18
+shut: 0 3 9
+shylock: 0 1 4 6 7 9 14 16 19 20
+sibylla: 0 3
+sick: 0 3 15 17 19 21
+side: 0 2 15
+sigh: 0 6 16 21
+sighs: 0 14
+sign: 0 15 19 20
+signifi: 0 8 13 21
+signior: 0 2 4 6 10 15
+signiors: 0 2
+silence: 0 2 12 18 21
+silks: 0 2
+silver: 0 3 4 11 13
+simple: 0 6 15
+simpliciti: 0 4
+sin: 0 3 7 15
+since: 0 2 15 16 19 21
+sinful: 0 11
+sing: 0 3 21
+singed: 0 13
+single: 0 4
+sings: 0 19 21
+sins: 0 18
+sir: 0 2 4 6 8 9 18 19 20 21
+sirrah: 0 3 9 18
+sisters: 0 6
+sit: 0 2 19 21
+sits: 0 2 10
+sitting: 0 14
+six: 0 9 15 19
+skilful: 0 4
+skip: 0 3
+skipping: 0 6
+skull: 0 15
+slander: 0 21
+slaughter: 0 19
+slave: 0 19
+slaves: 0 19
+slavish: 0 19
+sleep: 0 2 9
+sleeps: 0 9 21
+slew: 0 5
+slightli: 0 21
+slink: 0 8
+slips: 0 14
+slow: 0 9
+slubber: 0 12
+smack: 0 6
+small: 0 6
+smallest: 0 21
+smell: 0 4
+smile: 0 2
+smileng: 0 4
+smiles: 0 3
+smith: 0 3
+smug: 0 14
+snail: 0 9
+snaki: 0 15
+snapper: 0 18
+snore: 0 9
+snow: 0 15
+so: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+sober: 0 3 6 9 15
+soft: 0 4 16 19 21
+soften: 0 19
+sola: 0 21
+sold: 0 11
+soldier: 0 3
+sole: 0 19
+soleli: 0 5
+solemnize: 0 15
+solemnized: 0 13
+solyman: 0 5
+some: 0 2 3 6 7 8 9 10 11 12 13 14 15 17 18 19 21
+something: 0 2 6 7 15 18 19
+sometimes: 0 2
+son: 0 6 19
+song: 0 15
+sonties: 0 6
+soon: 0 7 21
+sooner: 0 3
+sooth: 0 2 10
+sophi: 0 5
+sore: 0 21
+sorri: 0 7 19
+sort: 0 2 3 21
+sought: 0 17
+soul: 0 4 6 10 15 17 19 21
+souls: 0 17 19 21
+sound: 0 2 9 15 19 21
+sounds: 0 15 21
+spare: 0 16
+speak: 0 2 4 5 6 8 14 15 16 17 18 19 20 21
+speaking: 0 16
+speaks: 0 2 15
+special: 0 21
+specifi: 0 6
+sped: 0 13
+speech: 0 13
+speechless: 0 2
+speed: 0 12 17 21
+spend: 0 2 13
+spent: 0 14
+spices: 0 2
+spider: 0 15
+spirit: 0 6 7 10 15 17 19 21
+spirits: 0 11 13 19 21
+spit: 0 4
+spits: 0 11
+spoils: 0 21
+spoke: 0 6 8 14 15 19
+sponge: 0 3
+sport: 0 4 15
+spurn: 0 4
+spurrer: 0 13
+squandered: 0 4
+squealing: 0 9
+st: 0 2 5 6 11 13 15 18 19 21
+staff: 0 6 9
+stage: 0 2
+stai: 0 2 6 10 12 15 19 21
+stain: 0 4
+stairs: 0 15
+stais: 0 17 19
+stake: 0 15
+stale: 0 9
+stamp: 0 13
+stamped: 0 11
+stand: 0 2 6 10 13 15 18 19 21
+standing: 0 2
+stands: 0 19 21
+start: 0 6
+starve: 0 3
+starved: 0 19 21
+state: 0 15 16 17 19 21
+stead: 0 4 19
+steal: 0 4 5 15 21
+stealing: 0 21
+steals: 0 15
+stephano: 0 21
+steps: 0 17
+sternest: 0 5
+stickest: 0 14
+still: 0 2 4 13 15 17 19 21
+stillness: 0 2 21
+sting: 0 19
+stirring: 0 14
+stock: 0 19
+stockish: 0 21
+stole: 0 19
+stolen: 0 12
+stomach: 0 18
+stomachs: 0 18
+stone: 0 2
+stones: 0 12 21
+stoni: 0 19
+stood: 0 5 15 21
+stoops: 0 11
+stop: 0 9 11 14 19
+store: 0 4 21
+storm: 0 4
+strai: 0 11 21
+straight: 0 2 3 4 8 10 13
+strain: 0 19
+strand: 0 2
+strange: 0 2 12 19 21
+stranger: 0 4 15
+strangers: 0 3 16
+stratagems: 0 21
+streak: 0 4
+stream: 0 2 15
+street: 0 1 2 6 8 9 12 14 16 20
+streets: 0 12
+strength: 0 21
+strict: 0 19
+stride: 0 17
+strife: 0 7
+strongli: 0 17
+strumpet: 0 10
+stubborn: 0 19
+stuck: 0 4 21
+studied: 0 6
+stuff: 0 2
+subject: 0 14 21
+subjects: 0 15
+substance: 0 15 19
+substitute: 0 21
+success: 0 15
+such: 0 2 3 4 6 12 13 15 17 18 19 21
+sucking: 0 5
+suddenli: 0 12 21
+suffer: 0 19 21
+sufferance: 0 4 14
+suffice: 0 19
+sufficient: 0 4
+sugar: 0 15
+suit: 0 3 4 6 8 11 19
+suited: 0 3 18
+suitors: 0 2 3
+sultan: 0 5
+sum: 0 2 4 15 19
+summari: 0 15
+summer: 0 13 14 21
+summon: 0 15
+sums: 0 4
+sun: 0 5 21
+sunder: 0 15
+sunni: 0 2
+sup: 0 8
+superfluiti: 0 3
+supper: 0 6 7 8 9
+suppli: 0 4
+supposed: 0 15
+supposition: 0 4
+sure: 0 2 6 12 14 15 16 21
+sureti: 0 3 21
+surfeit: 0 3 15
+surgeon: 0 19
+survei: 0 11
+suspect: 0 4
+sustain: 0 19
+swai: 0 4 19
+swais: 0 19
+swan: 0 15
+swear: 0 2 3 5 6 9 10 13 14 15 17 19 20 21
+swearing: 0 20
+sweat: 0 15 19
+sweateng: 0 15
+sweet: 0 3 7 10 13 15 18 21
+sweeter: 0 21
+sweetest: 0 21
+sweetli: 0 21
+swelling: 0 2
+swift: 0 15
+swore: 0 2 3 21
+sworn: 0 6 16 19 21
+synagogue: 0 14
+t: 0 6 10 11 14 21
+ta: 0 13 19
+table: 0 6 18
+tail: 0 6
+tailor: 0 14
+tainted: 0 15 19
+take: 0 2 3 4 5 6 8 11 13 14 15 17 19 21
+taken: 0 4 19
+takeng: 0 4
+takes: 0 19
+tale: 0 19
+tales: 0 3 21
+talk: 0 3 4 6 7 14 18 21
+talker: 0 2
+tall: 0 14
+tarri: 0 15 19 20
+tartars: 0 19
+taste: 0 6 7
+taught: 0 19
+teach: 0 3 13 14 15 19
+teaches: 0 4 21
+teaching: 0 3 19
+tear: 0 19
+tears: 0 7 12 14
+tedious: 0 10 11
+tediousness: 0 7
+teeth: 0 2
+tell: 0 2 4 5 6 8 9 10 12 13 14 15 16 17 18 19 20 21
+tells: 0 15 18
+temper: 0 3
+temple: 0 5
+temples: 0 2
+temporal: 0 19
+temptateon: 0 3
+tempts: 0 6
+ten: 0 10 11 15 19
+tender: 0 19
+tenor: 0 19
+tents: 0 21
+term: 0 15
+terms: 0 4 5 6 21
+text: 0 1 15
+than: 0 2 3 6 8 9 10 11 13 14 15 17 18 19 21
+thank: 0 2 5 14 15 17 19 21
+thanked: 0 6
+thankfulli: 0 2 20
+thanks: 0 2 19
+that: 0 2 3 4 5 6 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+thaws: 0 5
+the: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+thee: 0 2 3 4 5 6 7 8 9 12 13 14 15 16 17 18 19 21
+thei: 0 2 3 6 9 10 11 12 13 14 15 17 18 19 20 21
+their: 0 2 3 11 12 13 15 19 21
+them: 0 2 3 4 10 11 14 15 17 18 19 20 21
+themselves: 0 10 15 19
+then: 0 2 3 4 5 6 9 10 11 13 14 15 16 17 18 19 21
+there: 0 2 3 4 6 7 9 10 11 12 13 14 15 17 18 19 21
+therefore: 0 2 3 5 9 10 15 16 17 18 19 21
+therein: 0 15 19
+these: 0 2 3 4 6 7 11 13 14 15 16 17 19 21
+thick: 0 21
+thief: 0 14
+thieves: 0 4 10
+thine: 0 2 4 19 21
+thing: 0 2 3 4 19 21
+things: 0 6 10 13 17 18 19 21
+think: 0 2 3 4 6 11 12 14 17 18 19 21
+thinks: 0 15 19
+third: 0 4 11 14
+this: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 15 16 17 18 19 20 21
+thisbe: 0 21
+thither: 0 19
+thoroughfares: 0 11
+thoroughli: 0 19
+those: 0 2 4 15 19
+thou: 0 2 3 4 6 7 8 9 10 11 13 14 15 16 17 18 19 20 21
+though: 0 2 6 7 15 19 21
+thought: 0 2 11 12 15 19 21
+thoughts: 0 4 5 10 12 15 17
+thousand: 0 4 14 15 17 19 21
+threatenest: 0 15
+threatens: 0 11
+three: 0 3 4 5 6 11 13 15 19 21
+threshold: 0 4
+thrice: 0 4 6 15 19
+thrift: 0 2 4
+thrifti: 0 9
+thrive: 0 4 11
+throat: 0 4
+throned: 0 19
+throstle: 0 3
+through: 0 2 6 15
+throw: 0 5
+throws: 0 21
+thrust: 0 9
+thus: 0 4 6 10 11 13 15 17 18 19
+thwarted: 0 14
+thy: 0 3 4 6 7 9 10 11 13 14 15 18 19
+thyself: 0 19 21
+tickle: 0 14
+till: 0 2 6 14 15 17 19 21
+time: 0 2 3 4 6 8 10 12 13 15 17 19 21
+times: 0 4 10 11 13 15 16 19
+tis: 0 2 4 8 10 15 19 21
+title: 0 13 14
+to: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+together: 0 9 12 15 17 19
+told: 0 4 5 11 12 15 19
+tombs: 0 11
+tongue: 0 2 6 7 10 15 19
+tonight: 0 8
+too: 0 2 3 4 5 6 10 11 12 13 14 15 17 18 19 20 21
+took: 0 18 21
+top: 0 2
+tops: 0 19
+torch: 0 8
+torchbearer: 0 10
+torchbearers: 0 8
+torment: 0 15
+torture: 0 14
+torturer: 0 15
+torturest: 0 14
+tossing: 0 2
+touch: 0 15 19 21
+touches: 0 21
+touching: 0 2
+toward: 0 17 19 21
+towards: 0 3 9
+trade: 0 16
+trades: 0 17
+traffickers: 0 2
+train: 0 5 11 13 19
+trains: 0 11 13
+tranect: 0 17
+transformed: 0 10
+treads: 0 12
+treason: 0 15
+treasons: 0 21
+treasure: 0 13
+treble: 0 15
+trebled: 0 15
+tree: 0 18
+trees: 0 21
+trial: 0 19
+tribe: 0 4 14
+tribute: 0 15 19
+tricks: 0 17
+tricksi: 0 18
+tried: 0 11 13
+trifle: 0 6 19
+tripolis: 0 4 14 15
+troi: 0 15
+troilus: 0 21
+troth: 0 3
+trouble: 0 3 15
+troubled: 0 19
+troyan: 0 21
+true: 0 3 6 10 13 14 15 17 19 21
+truli: 0 18
+trumpet: 0 21
+trunks: 0 19
+trust: 0 2 6
+trusted: 0 2 21
+truth: 0 3 6 15 19 21
+try: 0 2 5 6
+tubal: 0 4 14 15
+tucket: 0 21
+turks: 0 19
+turn: 0 4 5 6 14 15 17 18 19 21
+turned: 0 4 19
+turning: 0 6 12
+turns: 0 15
+turquoise: 0 14
+twain: 0 15
+twas: 0 13
+tween: 0 15
+twelve: 0 4
+twelvemonth: 0 17
+twenti: 0 3 10 15 17
+twentieth: 0 19
+twere: 0 2 11 19 21
+twice: 0 19
+twill: 0 6 19
+twinkling: 0 6
+twixt: 0 15
+two: 0 2 3 4 8 12 13 14 15 17 18 19 21
+tyranni: 0 19
+ugli: 0 15
+unbated: 0 10
+unburden: 0 2
+uncapable: 0 19
+uncheck: 0 14
+uncle: 0 4
+under: 0 3 8 10 12 19
+underprizeng: 0 15
+understand: 0 4 12 15 18 19
+understands: 0 3
+undertook: 0 8
+undervalued: 0 2 11
+undeserved: 0 13
+undone: 0 14
+unfeeling: 0 19
+unfold: 0 13
+unforfeited: 0 10
+unfurnish: 0 15
+unhallow: 0 19
+unhandled: 0 21
+unhappi: 0 21
+universal: 0 15
+unkind: 0 21
+unknown: 0 2
+unless: 0 3 8 14 15 19 21
+unlesson: 0 15
+unlike: 0 13
+unlock: 0 2 13
+unlocks: 0 11
+unmannerli: 0 3
+unpleasant: 0 15
+unpractised: 0 15
+unquiet: 0 15 19
+unreasonable: 0 21
+unschool: 0 15
+unseal: 0 21
+unthrift: 0 21
+unthrifti: 0 4
+until: 0 15 17 21
+unto: 0 2 4 5 6 17 19 21
+untread: 0 10
+unwearied: 0 15
+unwillingli: 0 21
+unworthier: 0 5
+up: 0 4 6 8 9 14 18 19
+uphold: 0 21
+upon: 0 2 3 4 6 9 11 12 14 15 17 18 19 20 21
+upright: 0 18 19
+urge: 0 2 21
+urgest: 0 19
+urine: 0 19
+us: 0 2 4 5 8 10 12 14 15 16 17 18 19 21
+usance: 0 4
+usances: 0 4
+use: 0 4 6 15 17 19
+used: 0 14
+usual: 0 19
+usurer: 0 14
+utter: 0 12
+uttermost: 0 2
+v: 0 9 18
+vailing: 0 2
+valiant: 0 5
+valour: 0 15
+value: 0 4 11 13 15 19 21
+valued: 0 19
+vantage: 0 15
+variable: 0 12
+varnish: 0 9 13
+vasti: 0 11
+vehement: 0 21
+veiling: 0 15
+veins: 0 15
+vendible: 0 2
+venetian: 0 3 13 15 19
+venice: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+venture: 0 2 4 15
+ventures: 0 2 4 15
+venus: 0 10
+veri: 0 2 3 6 12 14 15 18 19 21
+vessel: 0 2 12 15
+vesture: 0 21
+vi: 0 10
+via: 0 6
+viands: 0 19
+vice: 0 15
+view: 0 11 15 19
+vii: 0 11
+viii: 0 12
+vile: 0 8 9
+vileli: 0 3
+villain: 0 4 12
+villani: 0 14
+vinegar: 0 2
+virgin: 0 11 15
+virgins: 0 5
+virtue: 0 15 21
+virtues: 0 2
+virtuous: 0 3
+visages: 0 2 15
+visit: 0 6
+visitateon: 0 19
+visited: 0 18
+voice: 0 6 15 17 19 21
+void: 0 4 19 21
+voluntari: 0 5
+vow: 0 17 19
+vows: 0 21
+waft: 0 21
+wag: 0 19
+wager: 0 17 18
+wai: 0 2 4 5 6 13 15 21
+wais: 0 18 21
+wait: 0 10
+wake: 0 21
+wakes: 0 2
+walk: 0 4 21
+walks: 0 6
+wall: 0 13
+walls: 0 21
+wands: 0 4
+want: 0 2
+wanted: 0 21
+wanton: 0 15 21
+wants: 0 4
+warm: 0 2
+warmed: 0 14
+warmth: 0 3
+warning: 0 11
+warrant: 0 20
+warranti: 0 2
+was: 0 3 4 6 8 9 11 12 13 14 15 18 19 21
+waste: 0 2 9 17
+watch: 0 2 10 21
+water: 0 4
+wateri: 0 11 15
+waters: 0 2 4 6 21
+waver: 0 19
+we: 0 2 3 4 6 8 10 11 12 14 15 17 18 19 20 21
+weak: 0 11
+weaker: 0 5
+weakest: 0 19
+wealth: 0 15 18 19 21
+wealthi: 0 2 4 21
+weapons: 0 14
+wear: 0 6 13 15 17 19 21
+wearer: 0 13
+wearies: 0 2
+weather: 0 10 13
+wedding: 0 15
+wedlock: 0 21
+wednesdai: 0 4 9
+weeping: 0 3
+weigh: 0 11 19
+weight: 0 15 19
+welcome: 0 3 11 15 19 20 21
+well: 0 2 3 4 6 7 9 11 12 13 14 15 16 17 18 19 20 21
+wench: 0 6
+went: 0 12
+wept: 0 14
+were: 0 2 3 4 6 9 11 12 13 14 18 19 21
+wert: 0 17
+wether: 0 19
+what: 0 2 3 4 6 7 8 9 10 11 12 13 14 15 17 18 19 21
+wheat: 0 2
+when: 0 2 3 4 5 6 9 10 12 13 14 15 17 18 19 21
+where: 0 2 3 4 5 6 10 13 14 15 19 20 21
+wherebi: 0 19
+wherefore: 0 9
+wherein: 0 2 13 19 21
+whereof: 0 2 3 19
+whet: 0 19
+whether: 0 6 10 14 15 19 21
+which: 0 2 3 4 5 6 10 11 12 13 15 17 19 20 21
+while: 0 5 6 15 18 21
+whiles: 0 3
+whilst: 0 15 19 21
+whispering: 0 4
+white: 0 3 15
+whiter: 0 8
+whither: 0 8
+who: 0 2 3 4 5 6 7 9 10 11 12 13 14 15 19 21
+whole: 0 2 17 18
+whom: 0 2 3 5 13 15 17 19 21
+whose: 0 2 4 5 11 15 17 19 21
+why: 0 2 3 4 6 9 10 11 12 13 14 17 18 19 21
+wide: 0 2 11
+widows: 0 6 15
+wife: 0 5 6 7 13 15 18 19 21
+wild: 0 6 9 15 21
+wilderness: 0 14
+wilds: 0 11
+wilful: 0 2
+will: 0 2 3 4 5 6 8 9 10 11 13 14 15 16 17 18 19 20 21
+willow: 0 21
+wilt: 0 4 7 13 14 18 19
+win: 0 5 15
+wind: 0 2 10 15 21
+window: 0 9
+winds: 0 2 4
+wine: 0 2 3 14
+wings: 0 2 14
+wins: 0 5
+winter: 0 14
+wis: 0 13
+wisdom: 0 2 13 19
+wise: 0 2 4 6 10 11 19
+wiseli: 0 6
+wisest: 0 15
+wish: 0 12 15 17 19 21
+wishes: 0 15
+wit: 0 2 5 13 18 19
+with: 0 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+withal: 0 11 14 15 17 19
+within: 0 2 3 4 10 11 17 19 21
+without: 0 3 9 13 14 19 21
+witness: 0 4 10 21
+wive: 0 3
+wiveng: 0 13
+wives: 0 6 10 15
+wo: 0 21
+wolf: 0 19
+wolvish: 0 19
+woman: 0 6 14 18 19 21
+women: 0 18
+won: 0 3 4 5 15
+wonder: 0 16
+wondrous: 0 2 12
+wont: 0 9 10 14
+woo: 0 13
+wooer: 0 3
+wooers: 0 3
+wooing: 0 15
+woollen: 0 19
+woolli: 0 4
+word: 0 2 3 14 15 18 19 21
+words: 0 9 15 17 18 19 21
+work: 0 4 17
+works: 0 15
+world: 0 2 3 11 12 15 18 19 21
+worms: 0 11
+worse: 0 3 11 15
+worship: 0 4 6 9
+worshipped: 0 6
+worst: 0 3
+worth: 0 2 9 10
+worthi: 0 3 19 21
+worthier: 0 2
+worthiness: 0 21
+worthless: 0 13
+would: 0 2 3 4 5 6 7 9 10 12 13 14 15 17 19 20 21
+wouldst: 0 6 19
+wound: 0 15
+wounds: 0 19
+woven: 0 2 15
+wreck: 0 14
+wrecked: 0 14
+wren: 0 21
+wrest: 0 19
+wretch: 0 19
+wretched: 0 19
+wrinkled: 0 19
+wrinkles: 0 2
+writ: 0 8
+write: 0 19
+writeng: 0 11 21
+writes: 0 19
+written: 0 11
+wrong: 0 2 4 5 6 14 15 19 21
+wroth: 0 13
+wrought: 0 4
+wrung: 0 12
+wry: 0 9
+ye: 0 2 4 18
+yea: 0 5 19
+year: 0 2 9
+years: 0 2 14 19
+yes: 0 3 4 14 15 18 19
+yesterdai: 0 12
+yet: 0 3 4 5 6 8 9 11 12 13 14 15 16 17 18 19 21
+yield: 0 5 16 19
+yoke: 0 17
+yon: 0 15
+yonder: 0 6 21
+you: 0 1 2 3 4 5 6 8 9 10 11 12 13 14 15 17 18 19 20 21
+young: 0 3 5 6 9 11 13 15 17 19 21
+younker: 0 10
+your: 0 2 3 4 5 6 8 9 10 11 12 13 14 15 17 18 19 20 21
+yours: 0 2 10 11 15 19 21
+yourself: 0 2 5 15
+youth: 0 2 3 15 17 19 20 21
+youthful: 0 21
+zeal: 0 21

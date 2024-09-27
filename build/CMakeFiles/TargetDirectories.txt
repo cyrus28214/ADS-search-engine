@@ -1,0 +1,6 @@
+/mnt/d/courses/ADS/proj/proj1-2/build/CMakeFiles/stmr.dir
+/mnt/d/courses/ADS/proj/proj1-2/build/CMakeFiles/main.dir
+/mnt/d/courses/ADS/proj/proj1-2/build/CMakeFiles/tests.dir
+/mnt/d/courses/ADS/proj/proj1-2/build/CMakeFiles/test.dir
+/mnt/d/courses/ADS/proj/proj1-2/build/CMakeFiles/edit_cache.dir
+/mnt/d/courses/ADS/proj/proj1-2/build/CMakeFiles/rebuild_cache.dir

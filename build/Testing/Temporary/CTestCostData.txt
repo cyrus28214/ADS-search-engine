@@ -1,0 +1,7 @@
+word_count 14 0.0338237
+stop_filter 14 0.00427189
+build_and_print_index 14 0.187009
+save_and_read_index 14 0.520442
+merge_and_print_index_file 14 0.144923
+search_engine_gen_index 8 0.0606079
+---
