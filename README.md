@@ -96,7 +96,7 @@ Alternatively, you can directly execute the `tests` binary:
 ./tests <test_case_name>
 ```
 
-You can checkout `CMakeLists.txt` to kown the test case names.
+See `CMakeLists.txt` to checkout the test case names.
 
 ## Reference List
 
