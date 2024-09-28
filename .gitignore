@@ -1,0 +1,22 @@
+# Build files
+/build/
+
+# Object files and binaries
+*.o
+*.out
+*.so
+*.a
+*.d
+
+# Temporary files
+*.tmp
+*.log
+*.yaml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor or IDE configuration files
+.vscode/
+.idea/

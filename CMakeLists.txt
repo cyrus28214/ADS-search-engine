@@ -14,8 +14,8 @@ target_include_directories(stmr PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/stmr)
 # Executable
 file(GLOB SOURCES "src/*.cpp")
 
-add_executable(main main.cpp ${SOURCES})
-target_link_libraries(main PRIVATE stmr)
+add_executable(ADS_search_engine ADS_search_engine.cpp ${SOURCES})
+target_link_libraries(ADS_search_engine PRIVATE stmr)
 
 # Testing
 enable_testing()
@@ -31,3 +31,4 @@ add_test(NAME build_and_print_index COMMAND tests build_and_print_index)
 add_test(NAME save_and_read_index COMMAND tests save_and_read_index)
 add_test(NAME merge_and_print_index_file COMMAND tests merge_and_print_index_file)
 add_test(NAME search_engine_gen_index COMMAND tests search_engine_gen_index)
+add_test(NAME search_engine_load_and_search COMMAND tests search_engine_load_and_search)

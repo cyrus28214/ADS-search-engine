@@ -3,9 +3,11 @@
 
 #include "tests.h"
 
+
+
 int main(int argc, char* argv[]) {
     if (argc == 1) {
-        std::cerr << "No test specified" << std::endl;
+        std::cerr << "No test specified.\n\nUseage: tests <test_case_name>\n - see `CMakeList.txt for the test case names`" << std::endl;
         return 1;
     }
 
@@ -31,6 +33,9 @@ int main(int argc, char* argv[]) {
     }
     else if (testname == "search_engine_gen_index") {
         return search_engine_gen_index_test();
+    }
+    else if (testname == "search_engine_load_and_search") {
+        return search_engine_load_and_search_test();
     }
 
     std::cerr << "Unknown test: " << testname << std::endl;

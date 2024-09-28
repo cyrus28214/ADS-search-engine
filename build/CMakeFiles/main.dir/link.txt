@@ -1,1 +1,0 @@
-/bin/c++ -g CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/FileIndex.cpp.o CMakeFiles/main.dir/src/SearchEngine.cpp.o CMakeFiles/main.dir/src/StopFilter.cpp.o CMakeFiles/main.dir/src/WordCounter.cpp.o CMakeFiles/main.dir/src/utils.cpp.o -o main  libstmr.a 

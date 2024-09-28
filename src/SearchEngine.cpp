@@ -3,18 +3,18 @@
 #include <fstream>
 #include <iostream>
 #include <filesystem>
+#include <sstream>
 
 #include "FileIndex.h"
 #include "utils.h"
 
-SearchEngine::SearchEngine(
-    const std::string& target_dir
-) : index_file(index_file)
-{
-    std::filesystem::path dir(target_dir);
+namespace fs = std::filesystem;
 
+SearchEngine::SearchEngine(const std::filesystem::path& dir)
+{
+    this->dir = dir;
     std::string line;
-    std::ifstream list_fs(dir / LIST_FILE_NAME);
+    std::ifstream list_fs(dir / BASE_DIR / LIST_FILE_NAME);
     while (std::getline(list_fs, line)) {
         if (line.empty()) continue;
         file_list.push_back(line);
@@ -22,23 +22,22 @@ SearchEngine::SearchEngine(
     list_fs.close();
 
     uint32_t size;
-    std::ifstream input(dir / INDEX_FILE_NAME, std::ios::binary);
+    std::ifstream input(dir / BASE_DIR / INDEX_FILE_NAME, std::ios::binary);
     input.read(reinterpret_cast<char*>(&size), sizeof(size));
     for (uint32_t i = 0; i < size; i++) {
         std::string word;
-        std::vector<uint32_t> docs;
+        FileIndex::Entry entry;
         std::streampos entry_pos = input.tellg();
-        FileIndex::read_entry(input, word, docs);
+        FileIndex::read_entry(input, word, entry);
         words.insert({ word, static_cast<Offset>(entry_pos) });
     }
     input.close();
 }
 
-void SearchEngine::gen_index(const std::filesystem::path& target_dir) {
-    std::filesystem::path prev = std::filesystem::current_path();
-    std::filesystem::current_path(target_dir);
-    std::vector<std::string> files = get_files(".");
-    std::ofstream list_fs(LIST_FILE_NAME);
+void SearchEngine::gen_index(const std::filesystem::path& dir) {
+    fs::create_directory(dir / BASE_DIR);
+    std::vector<std::string> files = get_files(dir);
+    std::ofstream list_fs(dir / BASE_DIR / LIST_FILE_NAME);
     for (auto& file : files) {
         list_fs << file << std::endl;
     }
@@ -48,26 +47,45 @@ void SearchEngine::gen_index(const std::filesystem::path& target_dir) {
     for (uint32_t i = 0; i < files.size(); i++) {
         index.add_file(files[i], i);
     }
-    index.save(INDEX_FILE_NAME);
-    std::filesystem::current_path(prev);
+    index.save(dir / BASE_DIR / INDEX_FILE_NAME);
 }
 
 void SearchEngine::search(const std::string& query, std::ostream& output) const {
-    std::string stemmed = stem_word(query);
-    auto it = words.find(stemmed);
-    if (it == words.end()) {
-        output << "The query word is not in the index" << std::endl;
-        return;
-    }
-    Offset entry_pos = it->second;
-    std::string word;
-    std::vector<uint32_t> docs;
-    std::ifstream index_fs(index_file, std::ios::binary);
-    index_fs.seekg(entry_pos);
-    FileIndex::read_entry(index_fs, word, docs);
-    index_fs.close();
+    std::stringstream ss(query);
+    std::vector<std::string> words;
+    std::string token;
 
-    for (uint32_t doc_id : docs) {
-        output << file_list[doc_id] << std::endl;
+    while (ss) {
+        token = tokenize(ss);
+        if (token.empty()) continue;
+        token = stem_word(token);
+        words.push_back(token);
     }
+
+    // TODO: handle multiple words
+
+    std::vector<uint32_t> docs;
+    for (auto& word : words) {
+        FileIndex::Entry entry = search_word(word, output);
+        docs = intersect(docs, entry.docs);
+    }
+
+    for (auto& doc : docs) {
+        output << file_list[doc] << std::endl;
+    }
+}
+
+FileIndex::Entry SearchEngine::search_word(const std::string& word, std::ostream& output) const {
+    auto it = words.find(word);
+    if (it == words.end()) return FileIndex::Entry();
+    Offset offset = it->second;
+
+    std::ifstream index(dir / BASE_DIR / INDEX_FILE_NAME, std::ios::binary);
+    index.seekg(offset);
+    FileIndex::Entry entry;
+    std::string index_word;
+    FileIndex::read_entry(index, index_word, entry);
+    index.close();
+
+    return entry;
 }
