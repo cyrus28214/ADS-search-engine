@@ -24,8 +24,10 @@ void print_help() {
     cout << "  "          " - Large mode can handle more very large amount of data in a limited memory. It will do the merge *on-disk*." << endl;
     cout << "  "          " - Normal mode is faster when memory is big enough." << endl;
     cout << "  "          " - You can pass a stop words file to ignore some words. An example is provided in test/stop_words.txt" << endl;
-    cout << "  " CLI_NAME " search <target_dir> # interactive mode" << endl;
-    cout << "  " CLI_NAME " search <target_dir> [-q,--query <query>]" << endl;
+    cout << "  " CLI_NAME " search <target_dir> [-t,--threshold <threshold>] # No query is passed, start interactive mode" << endl;
+    cout << "  " CLI_NAME " search <target_dir> [-q,--query <query>] [-t,--threshold <threshold>]" << endl;
+    cout << "  "          " - Threshold is float number from 0.0 to 1.0" << endl;
+    cout << "  "          " - When the threshold is passed, only the top <threshold>*100% not frequent input terms will be used to search" << endl;
 }
 
 int main(int argc, char* argv[]) {
@@ -104,6 +106,7 @@ int main(int argc, char* argv[]) {
                 stop_filter = new StopFilter(argv[i + 1]);
                 i++;
             }
+
             else {
                 target_dir = argv[i];
             }
@@ -133,9 +136,14 @@ int main(int argc, char* argv[]) {
     // search command
     if (argc >= 3 && strcmp(argv[1], "search") == 0) {
         string query;
+        double threshold;
         for (int i = 2; i < argc; i++) {
             if ((strcmp(argv[i], "-q") == 0 || strcmp(argv[i], "--query") == 0)) {
                 query = argv[i + 1];
+                i++;
+            }
+            else if ((strcmp(argv[i], "-t") == 0 || strcmp(argv[i], "--threshold") == 0) && i + 1 < argc) {
+                threshold = atof(argv[i + 1]);
                 i++;
             }
             else {
@@ -153,7 +161,7 @@ int main(int argc, char* argv[]) {
         }
         SearchEngine engine(dir);
         if (!query.empty()) {
-            engine.search(query, cout);
+            engine.search(query, cout, threshold);
             return 0;
         }
         else {
@@ -165,7 +173,7 @@ int main(int argc, char* argv[]) {
                 if (line.empty() || line == "/q") {
                     break;
                 }
-                engine.search(line, cout);
+                engine.search(line, cout, threshold);
             }
             return 0;
         }

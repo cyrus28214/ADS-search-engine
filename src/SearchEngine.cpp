@@ -4,6 +4,7 @@
 #include <iostream>
 #include <filesystem>
 #include <sstream>
+#include <algorithm>
 
 #include "FileIndex.h"
 #include "utils.h"
@@ -106,7 +107,7 @@ void SearchEngine::merge_index(const std::filesystem::path& dir, size_t l, size_
     std::filesystem::remove(base / name2);
 }
 
-void SearchEngine::search(const std::string& query, std::ostream& output) const {
+void SearchEngine::search(const std::string& query, std::ostream& output, double threshold) const {
     std::stringstream ss(query);
     std::vector<std::string> words;
     std::string token;
@@ -115,18 +116,46 @@ void SearchEngine::search(const std::string& query, std::ostream& output) const 
         token = tokenize(ss);
         if (token.empty()) continue;
         token = stem_word(token);
+        if (stop_filter && stop_filter->is_stop(token)) {
+            output << "Stop word \"" << token << "\" is ignored." << std::endl;
+            continue;
+        }
         words.push_back(token);
     }
 
-    std::vector<uint32_t> docs;
-    bool first = true;
+    std::vector<std::pair<std::string, FileIndex::Entry>> entries;
+
     for (auto& word : words) {
         FileIndex::Entry entry = search_word(word, output);
-        if (first) { docs = entry.docs; first = false; }
-        else docs = intersect(docs, entry.docs);
+        entries.push_back({ word, entry });
     }
 
-    for (auto& doc : docs) {
+    std::sort(entries.begin(), entries.end(), [](
+        const std::pair<std::string, FileIndex::Entry>& e1,
+        const std::pair<std::string, FileIndex::Entry>& e2
+        ) {
+            return e1.second.freq < e2.second.freq;
+        }); // sort by frequency, ascending
+
+    std::vector<uint32_t> res;
+    bool first = true;
+    for (size_t i = 0; i < entries.size(); i++) {
+        auto& entry = entries[i];
+        if (i > entries.size() * threshold) {
+            output << "\"" << entry.first << "\" is ignored due to threshold." << std::endl;
+        }
+        else {
+            if (first) {
+                res = entry.second.docs;
+                first = false;
+            }
+            else {
+                res = intersect(res, entry.second.docs);
+            }
+        }
+    }
+
+    for (auto& doc : res) {
         output << file_list[doc] << std::endl;
     }
 }

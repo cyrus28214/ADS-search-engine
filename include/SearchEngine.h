@@ -14,7 +14,7 @@ public:
     SearchEngine(const std::filesystem::path& dir);
     ~SearchEngine() { delete stop_filter; }
 
-    void search(const std::string& query, std::ostream& output) const;
+    void search(const std::string& query, std::ostream& output, double threshold = 1.0) const;
     FileIndex::Entry search_word(const std::string& word, std::ostream& output) const;
 
     static void gen_index(const std::filesystem::path& dir, StopFilter* stop_filter = nullptr, bool quiet = false);

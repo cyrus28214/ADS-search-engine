@@ -118,7 +118,45 @@ If you are in the `build` directory (`cd build`), you can run the program like t
    ./macbeth.4.3.html
    Enter query (or '/q' to quit): create cow
    ./full.html
+   Enter query (or '/q' to quit): I am your husband
+   Stop word "i" ignored.
+   Stop word "am" ignored.
+   Stop word "your" ignored.
+   ./full.html
+   ./macbeth.1.3.html
+   ./macbeth.2.2.html
+   ./macbeth.4.2.html
    Enter query (or '/q' to quit): /q
+
+   # search with threshold
+   ./ADS_search_engine index ../test/shakespeare/1henryvi # build index first
+   ./ADS_search_engine search ../test/shakespeare/1henryvi -t 0.2 # threshold = 0.2
+   Enter query (or '/q' to quit): what is love
+   "what" is ignored due to threshold. # <- NOTICE here
+   "is" is ignored due to threshold. # <- NOTICE here
+   ./1henryvi.1.2.html
+   ./1henryvi.2.4.html
+   ./1henryvi.3.1.html
+   ./1henryvi.4.1.html
+   ./1henryvi.4.2.html
+   ./1henryvi.4.4.html
+   ./1henryvi.4.5.html
+   ./1henryvi.5.3.html
+   ./1henryvi.5.4.html
+   ./1henryvi.5.5.html
+   ./full.html
+   Enter query (or '/q' to quit): love
+   ./1henryvi.1.2.html
+   ./1henryvi.2.4.html
+   ./1henryvi.3.1.html
+   ./1henryvi.4.1.html
+   ./1henryvi.4.2.html
+   ./1henryvi.4.4.html
+   ./1henryvi.4.5.html
+   ./1henryvi.5.3.html
+   ./1henryvi.5.4.html
+   ./1henryvi.5.5.html
+   ./full.html
 
    ./ADS_search_engine search ../test/shakespeare/macbeth -q god # search with query parameter
    ./full.html
