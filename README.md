@@ -103,6 +103,35 @@ If you are in the `build` directory (`cd build`), you can run the program like t
    ```bash
    ./ADS_search_engine index ../test/shakespeare/macbeth
    ls -a ../test/shakespeare/macbeth # you should see ".ADS_search_engine/" directory, that is the index directory
+   ./ADS_search_engine index ../test/shakespeare/ -l # BONUS: large mode, can handle more very large amount of data in a limited memory.
+   ./ADS_search_engine index ../test/shakespeare/macbeth -s ../test/stop_words.txt # with stop words
+   ```
+3. Search:
+
+   ```bash
+   ./ADS_search_engine search ../test/shakespeare/macbeth # search in interactive mode
+   Enter query (or '/q' to quit): cow
+   ./full.html
+   ./macbeth.5.8.html
+   Enter query (or '/q' to quit): create
+   ./full.html
+   ./macbeth.4.3.html
+   Enter query (or '/q' to quit): create cow
+   ./full.html
+   Enter query (or '/q' to quit): /q
+
+   ./ADS_search_engine search ../test/shakespeare/macbeth -q god # search with query parameter
+   ./full.html
+   ./macbeth.1.2.html
+   ./macbeth.1.6.html
+   ./macbeth.2.2.html
+   ./macbeth.2.3.html
+   ./macbeth.2.4.html
+   ./macbeth.3.1.html
+   ./macbeth.4.2.html
+   ./macbeth.4.3.html
+   ./macbeth.5.1.html
+   ./macbeth.5.8.html
    ```
 
 ## Testing

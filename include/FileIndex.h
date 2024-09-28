@@ -145,9 +145,9 @@ public:
      * @param output The output stream.
      */
     static void merge_files(
-        const std::string& filename1,
-        const std::string& filename2,
-        const std::string& output_filename
+        const std::filesystem::path& filename1,
+        const std::filesystem::path& filename2,
+        const std::filesystem::path& output_filename
     );
 
     /**

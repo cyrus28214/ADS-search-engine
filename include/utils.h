@@ -9,6 +9,7 @@
 #define BASE_DIR (".ADS_search_engine") ///< Base directory for the search engine, e.g. the index for `target_dir` will be stored in `target_dir/<BASE_DIR>`
 #define INDEX_FILE_NAME ("index.dat")   ///< Index file name
 #define LIST_FILE_NAME ("list.txt")     ///< List file name
+#define STOP_FILE_NAME ("stop_wrods.txt") ///< Stop words file name
 
 /**
  * @brief Get all files from a specified directory with a given extension.

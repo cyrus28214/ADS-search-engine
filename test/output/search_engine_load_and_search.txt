@@ -1,2 +1,21 @@
 searching for 'allow'...
+./asyoulikeit.1.1.html
+./full.html
 searching for 'love'...
+./asyoulikeit.1.1.html
+./asyoulikeit.1.2.html
+./asyoulikeit.1.3.html
+./asyoulikeit.2.1.html
+./asyoulikeit.2.3.html
+./asyoulikeit.2.4.html
+./asyoulikeit.2.7.html
+./asyoulikeit.3.2.html
+./asyoulikeit.3.4.html
+./asyoulikeit.3.5.html
+./asyoulikeit.4.1.html
+./asyoulikeit.4.3.html
+./asyoulikeit.5.1.html
+./asyoulikeit.5.2.html
+./asyoulikeit.5.3.html
+./asyoulikeit.5.4.html
+./full.html

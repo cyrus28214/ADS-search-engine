@@ -2,6 +2,7 @@
 
 #include <unordered_set>
 #include <string>
+#include <iostream>
 
 /**
  * @class StopFilter
@@ -33,4 +34,11 @@ public:
      * or if the word's length is less than 3 characters.
      */
     bool is_stop(const std::string& word) const;
+
+    /**
+     * @brief Print the stop words set.
+     * @param output The output stream to print to.
+     * This method prints the stop words set to the specified output stream.
+     */
+    void print(std::ostream& output) const;
 };

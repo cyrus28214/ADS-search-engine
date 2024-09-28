@@ -14,7 +14,7 @@ int search_engine_gen_index_test() {
         fs::remove_all(dir / BASE_DIR);
     }
 
-    SearchEngine::gen_index(dir, true);
+    SearchEngine::gen_index(dir, nullptr, true);
     assert(fs::exists(dir / BASE_DIR / INDEX_FILE_NAME));
     assert(fs::exists(dir / BASE_DIR / LIST_FILE_NAME));
     return 0;

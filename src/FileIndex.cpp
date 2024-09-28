@@ -210,9 +210,9 @@ void FileIndex::print_file(const std::string& filename, std::ostream& output) {
  * @param output The output stream.
  */
 void FileIndex::merge_files(
-    const std::string& filename1,
-    const std::string& filename2,
-    const std::string& output_filename
+    const std::filesystem::path& filename1,
+    const std::filesystem::path& filename2,
+    const std::filesystem::path& output_filename
 ) {
     ifstream input1(filename1, ios::binary);
     ifstream input2(filename2, ios::binary);

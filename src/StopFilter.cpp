@@ -35,3 +35,14 @@ bool StopFilter::is_stop(const std::string& word) const {
     if (word.size() < 3) return true; // Treat short words as stop words
     return stop_words.find(word) != stop_words.end(); // Check set for stop word
 }
+
+/**
+ * @brief Print the stop words set.
+ * @param output The output stream to print to.
+ * This method prints the stop words set to the specified output stream.
+ */
+void StopFilter::print(std::ostream& output) const {
+    for (const auto& word : stop_words) {
+        output << word << std::endl;
+    }
+}
