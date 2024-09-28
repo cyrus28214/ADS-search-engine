@@ -100,4 +100,5 @@ You can checkout `CMakeLists.txt` to kown the test case names.
 
 ## Reference List
 
-- The `stmr` library is used for word stemming.
+- The [stmr](https://github.com/wooorm/stmr.c) library is used for word stemming.
+- [The Complete Works of William Shakespeare](http://shakespeare.mit.edu/)
