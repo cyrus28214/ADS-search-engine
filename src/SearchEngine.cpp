@@ -34,10 +34,13 @@ SearchEngine::SearchEngine(const std::filesystem::path& dir)
     input.close();
 }
 
-void SearchEngine::gen_index(const std::filesystem::path& dir) {
-    fs::create_directory(dir / BASE_DIR);
-    std::vector<std::string> files = get_files(dir);
-    std::ofstream list_fs(dir / BASE_DIR / LIST_FILE_NAME);
+void SearchEngine::gen_index(const std::filesystem::path& dir, bool quiet) {
+    fs::path prev = fs::current_path();
+    fs::current_path(dir);
+    fs::create_directory(BASE_DIR);
+    fs::path base(BASE_DIR);
+    std::vector<std::string> files = get_files(".");
+    std::ofstream list_fs(base / LIST_FILE_NAME);
     for (auto& file : files) {
         list_fs << file << std::endl;
     }
@@ -45,9 +48,11 @@ void SearchEngine::gen_index(const std::filesystem::path& dir) {
 
     FileIndex index;
     for (uint32_t i = 0; i < files.size(); i++) {
+        if (!quiet) std::cout << "Indexing " << fs::canonical(files[i]) << std::endl;
         index.add_file(files[i], i);
     }
-    index.save(dir / BASE_DIR / INDEX_FILE_NAME);
+    index.save(base / INDEX_FILE_NAME);
+    fs::current_path(prev);
 }
 
 void SearchEngine::search(const std::string& query, std::ostream& output) const {

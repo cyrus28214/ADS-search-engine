@@ -16,7 +16,7 @@ public:
     void search(const std::string& query, std::ostream& output) const;
     FileIndex::Entry search_word(const std::string& word, std::ostream& output) const;
 
-    static void gen_index(const std::filesystem::path& dir);
+    static void gen_index(const std::filesystem::path& dir, bool quiet = false);
 private:
     std::filesystem::path dir;
     std::vector<std::string> file_list;

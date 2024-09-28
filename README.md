@@ -63,13 +63,19 @@ This project uses CMake for building and managing dependencies. The `stmr` libra
 3. Run CMake to configure the project:
 
    ```bash
-   cmake ..
+   cmake .. # don't forget the double dots
    ```
 
 4. Build the project:
 
    ```bash
    make
+   ```
+
+5. Run the program:
+
+   ```bash
+   ./ADS_search_engine help
    ```
 
 This will produce two executables: `ADS_search_engine` and `tests`.
@@ -79,8 +85,25 @@ This will produce two executables: `ADS_search_engine` and `tests`.
 After building the project, you can run the search engine by executing the `ADS_search_engine` binary:
 
 ```bash
-./ADS_search_engine
+./ADS_search_engine help
 ```
+### Examples
+
+If you are in the `build` directory (`cd build`), you can run the program like this:
+
+1. Count Words:
+
+   ```bash
+   ./ADS_search_engine count ../test/shakespeare/allswell # print to stdout
+   ./ADS_search_engine count ../test/shakespeare/allswell -o ../example/allswell_count.txt # print to file
+   ```
+
+2. Index Files in a Directory:
+
+   ```bash
+   ./ADS_search_engine index ../test/shakespeare/macbeth
+   ls -a ../test/shakespeare/macbeth # you should see ".ADS_search_engine/" directory, that is the index directory
+   ```
 
 ## Testing
 
@@ -97,6 +120,14 @@ Alternatively, you can directly execute the `tests` binary:
 ```
 
 See `CMakeLists.txt` to checkout the test case names.
+
+## Note
+
+When testing, the index will be generated to shakespeare example data. To delete them all, use:
+
+```bash
+find test/shakespeare -name ".ADS_search_engine" -type d -exec rm -rf {} + # in linux
+```
 
 ## Reference List
 
