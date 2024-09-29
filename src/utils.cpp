@@ -4,7 +4,7 @@
 #include <iostream>
 
 extern "C" {
-#include "stmr.h" // Include the stemmer header
+#include "stmr.h" // Include the stemmer header from the third-party library
 }
 
 /**
@@ -40,6 +40,7 @@ std::vector<std::string> get_files(
  *
  * This function takes a word as input, converts it to lowercase,
  * and applies the stemming algorithm.
+ * It uses the Porter stemming algorithm to achieve this.
  *
  * @param word The word to stem.
  * @return The stemmed version of the word.
@@ -49,7 +50,7 @@ std::string stem_word(const std::string& word) {
     for (char& p : s) {
         p = tolower(p); // Convert to lowercase
     }
-    stem(s.data(), 0, static_cast<int>(s.size() - 1)); // Apply stemming algorithm
+    stem(s.data(), 0, static_cast<int>(s.size() - 1)); // Apply stemming algorithm, this is a third-party library
     return s;
 }
 

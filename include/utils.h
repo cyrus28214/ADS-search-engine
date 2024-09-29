@@ -31,6 +31,7 @@ std::vector<std::string> get_files(
  *
  * This function takes a word as input and converts it to its
  * lowercase stemmed form.
+ * It uses the Porter stemming algorithm to achieve this.
  *
  * @param word The word to stem.
  * @return The stemmed version of the word.
