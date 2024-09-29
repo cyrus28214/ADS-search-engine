@@ -5,6 +5,7 @@
 #include <filesystem>
 #include <sstream>
 #include <algorithm>
+#include <cstdint>
 
 #include "FileIndex.h"
 #include "utils.h"
@@ -23,6 +24,9 @@ SearchEngine::SearchEngine(const std::filesystem::path& dir) {
 
     if (fs::exists(dir / BASE_DIR / STOP_FILE_NAME)) {
         this->stop_filter = new StopFilter(dir / BASE_DIR / STOP_FILE_NAME);
+    }
+    else {
+        this->stop_filter = nullptr;
     }
 
     uint32_t size;
@@ -92,9 +96,9 @@ void SearchEngine::gen_index_large(const std::filesystem::path& dir, StopFilter*
     fs::current_path(prev);
 }
 
-void SearchEngine::merge_index(const std::filesystem::path& dir, size_t l, size_t r, bool quiet) {
+void SearchEngine::merge_index(const std::filesystem::path& dir, std::size_t l, std::size_t r, bool quiet) {
     if (l == r) return;
-    size_t m = (l + r) / 2;
+    std::size_t m = (l + r) / 2;
     merge_index(dir, l, m, quiet);
     merge_index(dir, m + 1, r, quiet);
     std::string name1 = std::string("index_part_") + std::to_string(l) + std::string("to") + std::to_string(m) + std::string(".tmp");
@@ -116,30 +120,29 @@ void SearchEngine::search(const std::string& query, std::ostream& output, double
         token = tokenize(ss);
         if (token.empty()) continue;
         token = stem_word(token);
+        std::cout << "TEST2.5" << std::endl;
         if (stop_filter && stop_filter->is_stop(token)) {
             output << "Stop word \"" << token << "\" is ignored." << std::endl;
             continue;
         }
+        std::cout << "TEST2.6" << std::endl;
         words.push_back(token);
     }
-
     std::vector<std::pair<std::string, FileIndex::Entry>> entries;
 
     for (auto& word : words) {
         FileIndex::Entry entry = search_word(word, output);
         entries.push_back({ word, entry });
     }
-
     std::sort(entries.begin(), entries.end(), [](
         const std::pair<std::string, FileIndex::Entry>& e1,
         const std::pair<std::string, FileIndex::Entry>& e2
         ) {
             return e1.second.freq < e2.second.freq;
         }); // sort by frequency, ascending
-
     std::vector<uint32_t> res;
     bool first = true;
-    for (size_t i = 0; i < entries.size(); i++) {
+    for (std::size_t i = 0; i < entries.size(); i++) {
         auto& entry = entries[i];
         if (i > entries.size() * threshold) {
             output << "\"" << entry.first << "\" is ignored due to threshold." << std::endl;
@@ -154,7 +157,6 @@ void SearchEngine::search(const std::string& query, std::ostream& output, double
             }
         }
     }
-
     for (auto& doc : res) {
         output << file_list[doc] << std::endl;
     }

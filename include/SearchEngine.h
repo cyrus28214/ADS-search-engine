@@ -20,7 +20,7 @@ public:
     static void gen_index(const std::filesystem::path& dir, StopFilter* stop_filter = nullptr, bool quiet = false);
     static void gen_index_large(const std::filesystem::path& dir, StopFilter* stop_filter = nullptr, bool quiet = false);
 private:
-    static void merge_index(const std::filesystem::path& dir, size_t l, size_t r, bool quiet = false);
+    static void merge_index(const std::filesystem::path& dir, std::size_t l, std::size_t r, bool quiet = false);
     std::filesystem::path dir;
     std::vector<std::string> file_list;
     std::unordered_map <std::string, Offset> words;

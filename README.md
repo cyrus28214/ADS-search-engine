@@ -52,6 +52,8 @@ This project uses CMake for building and managing dependencies. The `stmr` libra
 
 ### Steps to Build
 
+**Notice**: Only tested on Linux, I am not sure whether it works on Windows.
+
 1. Clone the repository and navigate to the root project directory.
 
 2. Create a build directory:
@@ -60,10 +62,10 @@ This project uses CMake for building and managing dependencies. The `stmr` libra
    mkdir build && cd build
    ```
 
-3. Run CMake to configure the project:
+3. Run CMake to configure the project.
 
    ```bash
-   cmake .. # don't forget the double dots
+   cmake ..
    ```
 
 4. Build the project:
@@ -177,7 +179,7 @@ If you are in the `build` directory (`cd build`), you can run the program like t
 The project includes various tests to ensure that all components (e.g., word counting, stop word filtering, file indexing) work as expected. To run the tests:
 
 ```bash
-ctest
+ctest -V
 ```
 
 Alternatively, you can directly execute the `tests` binary:

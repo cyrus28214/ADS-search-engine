@@ -304,7 +304,7 @@ bool FileIndex::read_entry(istream& input, string& word, Entry& entry) {
  */
 void FileIndex::write_entry(ostream& output, const string& word, const Entry& entry) {
     // write word
-    size_t word_len = word.size();
+    uint32_t word_len = static_cast<uint32_t>(word.size());
     output.write(reinterpret_cast<const char*>(&word_len), sizeof(word_len));
     output.write(word.c_str(), word_len);
 
@@ -313,7 +313,7 @@ void FileIndex::write_entry(ostream& output, const string& word, const Entry& en
     output.write(reinterpret_cast<const char*>(&freq), sizeof(freq));
 
     // write docs
-    size_t num_doc = entry.docs.size();
+    uint32_t num_doc = static_cast<uint32_t>(entry.docs.size());
     output.write(reinterpret_cast<const char*>(&num_doc), sizeof(num_doc));
     output.write(reinterpret_cast<const char*>(entry.docs.data()), num_doc * sizeof(uint32_t));
 }

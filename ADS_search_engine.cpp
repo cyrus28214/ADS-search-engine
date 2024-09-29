@@ -136,7 +136,7 @@ int main(int argc, char* argv[]) {
     // search command
     if (argc >= 3 && strcmp(argv[1], "search") == 0) {
         string query;
-        double threshold;
+        double threshold = 1.0;
         for (int i = 2; i < argc; i++) {
             if ((strcmp(argv[i], "-q") == 0 || strcmp(argv[i], "--query") == 0)) {
                 query = argv[i + 1];
