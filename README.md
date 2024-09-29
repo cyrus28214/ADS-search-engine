@@ -43,6 +43,8 @@ This project implements a basic search engine that indexes documents and allows 
 
 ## Build Instructions
 
+**Notice**: Building only tested on Linux, I do not guarantee it works on other platforms.
+
 This project uses CMake for building and managing dependencies. The `stmr` library is included as a static library and linked to the main search engine executable.
 
 ### Prerequisites
@@ -51,8 +53,6 @@ This project uses CMake for building and managing dependencies. The `stmr` libra
 - A C++17-compatible compiler (e.g., GCC, Clang)
 
 ### Steps to Build
-
-**Notice**: Only tested on Linux, I am not sure whether it works on Windows.
 
 1. Clone the repository and navigate to the root project directory.
 
@@ -179,7 +179,8 @@ If you are in the `build` directory (`cd build`), you can run the program like t
 The project includes various tests to ensure that all components (e.g., word counting, stop word filtering, file indexing) work as expected. To run the tests:
 
 ```bash
-ctest -V
+ctest # on Linux
+ctest -C Debug # on Windows
 ```
 
 Alternatively, you can directly execute the `tests` binary:
