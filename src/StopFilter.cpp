@@ -11,7 +11,7 @@
  * This constructor reads the stop words from the specified file and inserts
  * them into the stop_words set for efficient checking.
  */
-StopFilter::StopFilter(const std::string& stop_words_file) {
+StopFilter::StopFilter(const std::filesystem::path& stop_words_file) {
     std::ifstream input(stop_words_file);
     std::string word;
 

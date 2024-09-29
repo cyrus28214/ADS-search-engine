@@ -3,6 +3,7 @@
 #include <unordered_set>
 #include <string>
 #include <iostream>
+#include <filesystem>
 
 /**
  * @class StopFilter
@@ -23,7 +24,7 @@ public:
      * This constructor reads the stop words from the specified file and
      * stores them in a set for quick lookup.
      */
-    StopFilter(const std::string& stop_words_file);
+    StopFilter(const std::filesystem::path& stop_words_file);
 
     /**
      * @brief Check if a word is a stop word.

@@ -69,7 +69,7 @@ This project uses CMake for building and managing dependencies. The `stmr` libra
 4. Build the project:
 
    ```bash
-   make
+   cmake --build .
    ```
 
 5. Run the program:
