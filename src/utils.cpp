@@ -49,7 +49,7 @@ std::string stem_word(const std::string& word) {
     for (char& p : s) {
         p = tolower(p); // Convert to lowercase
     }
-    stem(s.data(), 0, s.size() - 1); // Apply stemming algorithm
+    stem(s.data(), 0, static_cast<int>(s.size() - 1)); // Apply stemming algorithm
     return s;
 }
 

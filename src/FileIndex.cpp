@@ -53,12 +53,12 @@ void FileIndex::add_file(const std::filesystem::path& filename, uint32_t id, Sto
  */
 uint32_t FileIndex::add_dir(const std::filesystem::path& dir, uint32_t id_start, StopFilter* filter) {
     vector<string> files = get_files(dir);
-    for (size_t i = 0; i < files.size(); i++) {
+    for (uint32_t i = 0; i < files.size(); i++) {
         // Process files sequentially
         this->add_file(files[i], id_start + i, filter);
     }
     // Return the next available document ID
-    return files.size() + id_start;
+    return static_cast<uint32_t>(files.size()) + id_start;
 }
 
 /**
@@ -89,7 +89,7 @@ void FileIndex::clear() {
  * @param output The output stream to write the serialized index to.
  */
 void FileIndex::serialize(ostream& output) {
-    uint32_t size = index.size(); // Get the size of the index
+    uint32_t size = static_cast<uint32_t>(index.size()); // Get the size of the index
     output.write(reinterpret_cast<const char*>(&size), sizeof(size)); // Write size header
     for (const auto& [word, entry] : index) {
         write_entry(output, word, entry); // Serialize each entry
@@ -222,7 +222,6 @@ void FileIndex::merge_files(
     input1.read(reinterpret_cast<char*>(&size1), sizeof(size1));
     input2.read(reinterpret_cast<char*>(&size2), sizeof(size2));
 
-    uint32_t word_len1, word_len2;
     string word1, word2;
     Entry entry1, entry2;
     if (size1 > 0) { // if index1 is not empty
@@ -305,7 +304,7 @@ bool FileIndex::read_entry(istream& input, string& word, Entry& entry) {
  */
 void FileIndex::write_entry(ostream& output, const string& word, const Entry& entry) {
     // write word
-    uint32_t word_len = word.size();
+    size_t word_len = word.size();
     output.write(reinterpret_cast<const char*>(&word_len), sizeof(word_len));
     output.write(word.c_str(), word_len);
 
@@ -314,7 +313,7 @@ void FileIndex::write_entry(ostream& output, const string& word, const Entry& en
     output.write(reinterpret_cast<const char*>(&freq), sizeof(freq));
 
     // write docs
-    uint32_t num_doc = entry.docs.size();
+    size_t num_doc = entry.docs.size();
     output.write(reinterpret_cast<const char*>(&num_doc), sizeof(num_doc));
     output.write(reinterpret_cast<const char*>(entry.docs.data()), num_doc * sizeof(uint32_t));
 }
